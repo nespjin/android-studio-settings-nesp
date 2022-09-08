@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="REASON CODE CLIENT EXCEPTION" />
       <item value="folders" />
       <item value="is Minify Enabled" />
       <item value="put If Absent" />
@@ -54,7 +55,6 @@
       <item value="reselect Terminal Box" />
       <item value="To select breaker by view model." />
       <item value="Otherwise, the ui state will be chaotic at moment." />
-      <item value="否则将导致界面状态错乱" />
     </histories>
     <option name="languageScores">
       <map>
