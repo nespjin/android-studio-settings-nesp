@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="257" />
+    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogX" value="609" />
+    <option name="newTranslationDialogY" value="339" />
+    <histories>
+      <item value="is Minify Enabled" />
+      <item value="put If Absent" />
+      <item value="dedicated" />
+      <item value="Get power of terminal box in recent two month" />
+      <item value="message Merged" />
+      <item value="message Fully" />
+      <item value="没问题" />
+      <item value="chat later" />
+      <item value="策略" />
+      <item value="FLAG IMMUTABLE" />
+      <item value="implicit" />
+      <item value="TODO: Split this class to many small classes." />
+      <item value="TODO: Split this class to more small class." />
+      <item value="TODO: Split this class as small class." />
+      <item value="TODO: Spit this class as small class." />
+      <item value="TODO: Spit this class to small." />
+      <item value="lowercase" />
+      <item value="garbage Collector" />
+      <item value="garbage" />
+      <item value="Huawei Wifi Watchdog State Machine" />
+      <item value="wallpaper Travel To Screen Width Ratio" />
+      <item value="is Magic Mirror" />
+      <item value="优先级" />
+      <item value="PROIOR" />
+      <item value="proior" />
+      <item value="Observes the network status, and triggers callback when network status has changed, and refresh the page's data by calling [refresh] if network is available." />
+      <item value="Observes the network status, and triggers callback when network status has changed, and refresh the page's data by [refresh] if network is available." />
+      <item value="Checks the network is available or not. If it is unavailable, will send a message that id equals [HomeUiState.MESSAGE_ID_NETWORK_UNAVAILABLE], and also update the ui state." />
+      <item value="auto" />
+      <item value="Passable" />
+      <item value="Smoothly" />
+      <item value="It is not ensure that connection is available." />
+      <item value="AWARE" />
+      <item value="An observer that observes [ConnectivityObserver.Status] for network. Will trigger [ConnectivityObserver.Status] when [ConnectivityObserver.Status] is changed." />
+      <item value="Avaliable" />
+      <item value="Returns True if the string is only digits." />
+      <item value="Returns True if the [Boolean] value is False. else True." />
+      <item value="Toggles a [Boolean] value." />
+      <item value="Coverts a [Boolean] value to an [Int] value. Returns 1 if the [Boolean] value is True, else 0." />
+      <item value="Computes the crc for [hex], returns with hex string." />
+      <item value="Reverse the crc byte sorts in byte array to returns hex string." />
+      <item value="Reverse the crc byte sorts in hex string." />
+      <item value="Converts [int] to hex string, the length over or equals to [minLength]." />
+      <item value="byte unsigned byte, must between in 0..255" />
+      <item value="Gateway Offline" />
+      <item value="reselect Terminal Box" />
+      <item value="To select breaker by view model." />
+      <item value="Otherwise, the ui state will be chaotic at moment." />
+      <item value="否则将导致界面状态错乱" />
+      <item value="cancel All Jobs Related To Control Breaker Operation" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="7" />
+        <entry key="GREEK" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1662531109187" />
+  </component>
+  <component name="Settings">
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+</application>

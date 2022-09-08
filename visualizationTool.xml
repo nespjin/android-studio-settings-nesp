@@ -1,0 +1,18 @@
+<application>
+  <component name="VisualizationTool">
+    <option name="state">
+      <GlobalState>
+        <option name="customConfigurationSets">
+          <map>
+            <entry key="predefinedCustom">
+              <value>
+                <CustomConfigurationSet />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="firstTimeOpen" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+</application>
