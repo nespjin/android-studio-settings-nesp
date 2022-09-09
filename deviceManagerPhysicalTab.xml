@@ -41,9 +41,9 @@
             <value value="MQM9X18B22G02544" />
           </Key>
         </key>
-        <name value="HUAWEI AUM-AL20" />
-        <target value="Android 8.0" />
-        <api value="26" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
