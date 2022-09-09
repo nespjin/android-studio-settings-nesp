@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Assume we can read the whole header at once. The header is very small so it's likely we are able to read it fully or not at all. This keeps the parser lean since we don't need to cope with a partial header. Should we lose synch with the stream, the keepalive mechanism would kick in closing the connection." />
       <item value="REASON CODE CLIENT EXCEPTION" />
       <item value="folders" />
       <item value="is Minify Enabled" />
@@ -54,12 +55,11 @@
       <item value="Gateway Offline" />
       <item value="reselect Terminal Box" />
       <item value="To select breaker by view model." />
-      <item value="Otherwise, the ui state will be chaotic at moment." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="7" />
         <entry key="GREEK" value="2" />
