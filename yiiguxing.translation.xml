@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Delete this file with all its children. Note that if this operation fails then partial deletion may have taken place." />
       <item value="is Topic Not Avaliable" />
       <item value="persistence" />
       <item value="bais" />
@@ -54,14 +55,13 @@
       <item value="Reverse the crc byte sorts in byte array to returns hex string." />
       <item value="Reverse the crc byte sorts in hex string." />
       <item value="Converts [int] to hex string, the length over or equals to [minLength]." />
-      <item value="byte unsigned byte, must between in 0..255" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="432" />
-        <entry key="ENGLISH" value="433" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="7" />
+        <entry key="JAPANESE" value="8" />
         <entry key="GREEK" value="2" />
       </map>
     </option>
