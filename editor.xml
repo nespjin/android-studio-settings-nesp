@@ -11,7 +11,6 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
