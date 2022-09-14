@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="business" />
       <item value="longitude" />
       <item value="Delete this file with all its children. Note that if this operation fails then partial deletion may have taken place." />
       <item value="is Topic Not Avaliable" />
@@ -54,7 +55,6 @@
       <item value="Coverts a [Boolean] value to an [Int] value. Returns 1 if the [Boolean] value is True, else 0." />
       <item value="Computes the crc for [hex], returns with hex string." />
       <item value="Reverse the crc byte sorts in byte array to returns hex string." />
-      <item value="Reverse the crc byte sorts in hex string." />
     </histories>
     <option name="languageScores">
       <map>
