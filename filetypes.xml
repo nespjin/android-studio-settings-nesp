@@ -10,6 +10,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="权限介绍" type="PLAIN_TEXT" />
       <mapping pattern="extracas" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="prof" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
