@@ -6,7 +6,30 @@
           <map>
             <entry key="predefinedCustom">
               <value>
-                <CustomConfigurationSet />
+                <CustomConfigurationSet>
+                  <option name="customConfigAttributes">
+                    <list>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="33" />
+                        <option name="deviceId" value="Magic MIrror 10.1" />
+                        <option name="name" value="Magic Mirror 10.1 Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="LANDSCAPE" />
+                        <option name="theme" value="Base.Theme.App" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="33" />
+                        <option name="deviceId" value="Magic MIrror 13" />
+                        <option name="name" value="Magic Mirror 13 Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="LANDSCAPE" />
+                        <option name="theme" value="Base.Theme.App" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                    </list>
+                  </option>
+                </CustomConfigurationSet>
               </value>
             </entry>
           </map>
