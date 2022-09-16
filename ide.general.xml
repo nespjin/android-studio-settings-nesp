@@ -16,6 +16,7 @@
       <map>
         <entry key="Memory" value="true" />
         <entry key="Position" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
       </map>
     </option>
