@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ok" />
+    <option name="mostRecentlyUsed" value="Fragment" />
     <option name="nonFavorites">
       <list>
+        <option value="Fragment" />
+        <option value="HomeFragment" />
         <option value="ok" />
         <option value="level:error " />
         <option value="okhttp" />
