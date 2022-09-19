@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
+        <option value="okhttp" />
+        <option value="BreakerRemoteDataSource" />
         <option value="package:com.chintapp" />
       </list>
     </option>
