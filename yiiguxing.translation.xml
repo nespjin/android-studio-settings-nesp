@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="无漏电" />
       <item value="别名" />
       <item value="Chint Mqtt Client" />
       <item value="GID W Panel android@@@88 bbd 87440 ac 4310 ab 142 d 0001859760 sasw" />
@@ -54,11 +55,10 @@
       <item value="auto" />
       <item value="Passable" />
       <item value="Smoothly" />
-      <item value="It is not ensure that connection is available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="439" />
+        <entry key="CHINESE" value="440" />
         <entry key="ENGLISH" value="441" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
