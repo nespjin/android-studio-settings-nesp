@@ -2,6 +2,7 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
+        <option name="configurationSetId" value="predefinedCustom" />
         <option name="customConfigurationSets">
           <map>
             <entry key="predefinedCustom">
