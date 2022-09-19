@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Chint Mqtt Client" />
       <item value="GID W Panel android@@@88 bbd 87440 ac 4310 ab 142 d 0001859760 sasw" />
       <item value="隐私政策" />
       <item value="用户协议" />
@@ -54,7 +55,6 @@
       <item value="Smoothly" />
       <item value="It is not ensure that connection is available." />
       <item value="AWARE" />
-      <item value="An observer that observes [ConnectivityObserver.Status] for network. Will trigger [ConnectivityObserver.Status] when [ConnectivityObserver.Status] is changed." />
     </histories>
     <option name="languageScores">
       <map>
