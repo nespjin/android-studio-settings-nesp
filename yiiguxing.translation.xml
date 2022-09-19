@@ -1,10 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="短路" />
+      <item value="欠频" />
+      <item value="过频" />
+      <item value="断相" />
+      <item value="漏电" />
+      <item value="过载" />
+      <item value="high temperature" />
+      <item value="高温" />
+      <item value="欠压" />
+      <item value="过压" />
+      <item value="occurs Time" />
       <item value="无漏电" />
       <item value="别名" />
       <item value="Chint Mqtt Client" />
@@ -44,22 +56,11 @@
       <item value="garbage Collector" />
       <item value="garbage" />
       <item value="Huawei Wifi Watchdog State Machine" />
-      <item value="wallpaper Travel To Screen Width Ratio" />
-      <item value="is Magic Mirror" />
-      <item value="优先级" />
-      <item value="PROIOR" />
-      <item value="proior" />
-      <item value="Observes the network status, and triggers callback when network status has changed, and refresh the page's data by calling [refresh] if network is available." />
-      <item value="Observes the network status, and triggers callback when network status has changed, and refresh the page's data by [refresh] if network is available." />
-      <item value="Checks the network is available or not. If it is unavailable, will send a message that id equals [HomeUiState.MESSAGE_ID_NETWORK_UNAVAILABLE], and also update the ui state." />
-      <item value="auto" />
-      <item value="Passable" />
-      <item value="Smoothly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="452" />
+        <entry key="ENGLISH" value="452" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
         <entry key="WELSH" value="1" />
@@ -68,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663131813591" />
+    <option name="lastTrimTime" value="1663587367200" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="LAST" />
