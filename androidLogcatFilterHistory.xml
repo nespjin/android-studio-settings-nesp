@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppBas" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="AppBas" />
         <option value="AppBaseActivity" />
         <option value="BreakerRemoteDataSource" />
@@ -10,7 +11,6 @@
         <option value="package:mine" />
         <option value="Fragment" />
         <option value="HomeFragment" />
-        <option value="ok" />
         <option value="level:error " />
         <option value="okhttp" />
         <option value="package:com.chintapp" />
