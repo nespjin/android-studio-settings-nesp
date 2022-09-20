@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="latitude" />
+      <item value="方位" />
+      <item value="坐标" />
+      <item value="地理" />
+      <item value="地理坐标" />
       <item value="Partial" />
       <item value="局部的" />
       <item value="Party" />
@@ -51,16 +55,11 @@
       <item value="put If Absent" />
       <item value="dedicated" />
       <item value="Get power of terminal box in recent two month" />
-      <item value="message Merged" />
-      <item value="message Fully" />
-      <item value="没问题" />
-      <item value="chat later" />
-      <item value="策略" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="462" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
         <entry key="WELSH" value="1" />
