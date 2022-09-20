@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.chintapp " />
+    <option name="mostRecentlyUsed" value="HomePartialWeatherFragment" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.chintapp " />
-        <option value="ok" />
         <option value="HomePartialWeatherFragment" />
+        <option value="OkHttpClient" />
+        <option value="ok" />
+        <option value="package:com.chintapp " />
         <option value="AppBas" />
         <option value="AppBaseActivity" />
         <option value="BreakerRemoteDataSource" />
