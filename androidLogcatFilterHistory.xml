@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomePartialWeatherFragment" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="HomePartialWeatherFragment" />
         <option value="ok" />
+        <option value="HomePartialWeatherFragment" />
         <option value="AppBas" />
         <option value="AppBaseActivity" />
         <option value="BreakerRemoteDataSource" />
