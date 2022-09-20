@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="Fragment" />
         <option value="HomeFragment" />
         <option value="ok" />
