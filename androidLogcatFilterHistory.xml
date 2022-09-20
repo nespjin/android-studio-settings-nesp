@@ -3,13 +3,14 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="BreakerRemoteDataSource" />
+        <option value="controlBreaker" />
         <option value="package:mine" />
         <option value="Fragment" />
         <option value="HomeFragment" />
         <option value="ok" />
         <option value="level:error " />
         <option value="okhttp" />
-        <option value="BreakerRemoteDataSource" />
         <option value="package:com.chintapp" />
       </list>
     </option>
