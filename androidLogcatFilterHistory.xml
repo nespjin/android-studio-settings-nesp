@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ConnectivityObserverImpl" />
+    <option name="mostRecentlyUsed" value="Fra" />
     <option name="nonFavorites">
       <list>
+        <option value="Fra" />
         <option value="ConnectivityObserverImpl" />
         <option value="Connectivit" />
         <option value="HomeViewModel" />
@@ -22,7 +23,6 @@
         <option value="HomeFragment" />
         <option value="level:error " />
         <option value="okhttp" />
-        <option value="package:com.chintapp" />
       </list>
     </option>
   </component>
