@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomeViewModel" />
+    <option name="mostRecentlyUsed" value="Connectivit" />
     <option name="nonFavorites">
       <list>
+        <option value="Connectivit" />
         <option value="HomeViewModel" />
         <option value="Home" />
         <option value="Mqtt" />
