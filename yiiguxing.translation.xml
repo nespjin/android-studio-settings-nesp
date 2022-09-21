@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="get Qr Code Status" />
       <item value="latitude" />
       <item value="方位" />
       <item value="坐标" />
@@ -54,12 +55,11 @@
       <item value="is Minify Enabled" />
       <item value="put If Absent" />
       <item value="dedicated" />
-      <item value="Get power of terminal box in recent two month" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="463" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
         <entry key="WELSH" value="1" />
