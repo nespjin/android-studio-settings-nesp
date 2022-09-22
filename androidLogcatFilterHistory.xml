@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="mqtt" />
         <option value="Mqtt" />
         <option value="ok" />
         <option value="Fra" />
@@ -22,7 +23,6 @@
         <option value="Fragment" />
         <option value="HomeFragment" />
         <option value="level:error " />
-        <option value="okhttp" />
       </list>
     </option>
   </component>
