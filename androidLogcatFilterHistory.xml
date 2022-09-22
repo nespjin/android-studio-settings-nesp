@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ok" />
+    <option name="mostRecentlyUsed" value="Mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="Mqtt" />
         <option value="ok" />
         <option value="Fra" />
         <option value="ConnectivityObserverImpl" />
         <option value="Connectivit" />
         <option value="HomeViewModel" />
         <option value="Home" />
-        <option value="Mqtt" />
         <option value="AppBaseFragment" />
         <option value="HomePartialWeatherFragment" />
         <option value="OkHttpClient" />
