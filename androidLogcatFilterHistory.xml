@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqtt" />
+    <option name="mostRecentlyUsed" value="AppBaseFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="AppBaseFragment" />
+        <option value="HomeFragment" />
+        <option value="Fragment" />
         <option value="mqtt" />
         <option value="ok" />
-        <option value="Fragment" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFlag=53efb1ec961441d492bbc30fe470e099" />
         <option value="Mqtt" />
         <option value="MqttClient" />
@@ -16,13 +18,11 @@
         <option value="Connectivit" />
         <option value="HomeViewModel" />
         <option value="Home" />
-        <option value="AppBaseFragment" />
         <option value="HomePartialWeatherFragment" />
         <option value="OkHttpClient" />
         <option value="package:com.chintapp " />
         <option value="AppBas" />
         <option value="AppBaseActivity" />
-        <option value="BreakerRemoteDataSource" />
       </list>
     </option>
   </component>
