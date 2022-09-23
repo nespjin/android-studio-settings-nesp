@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QRCodeLoginFragment" />
+    <option name="mostRecentlyUsed" value="Fragment" />
     <option name="nonFavorites">
       <list>
+        <option value="Fragment" />
         <option value="QRCodeLoginFragment" />
         <option value="package:mine" />
         <option value="HomePartialLoginFragment" />
         <option value="tag:HomePartialLoginFragment" />
-        <option value="Fragment" />
         <option value="onCreateView" />
         <option value="HomeFragment" />
         <option value="AppBaseFragment" />
