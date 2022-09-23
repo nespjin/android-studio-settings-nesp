@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ok" />
+    <option name="mostRecentlyUsed" value="Mqtt" />
     <option name="nonFavorites">
       <list>
-        <option value="ok" />
-        <option value="mqtt" />
-        <option value="connection" />
         <option value="Mqtt" />
+        <option value="MqttClient" />
+        <option value="ppBaseMqtt" />
+        <option value="mqtt" />
+        <option value="ok" />
+        <option value="connection" />
         <option value="Fra" />
         <option value="ConnectivityObserverImpl" />
         <option value="Connectivit" />
@@ -21,8 +23,6 @@
         <option value="BreakerRemoteDataSource" />
         <option value="controlBreaker" />
         <option value="package:mine" />
-        <option value="Fragment" />
-        <option value="HomeFragment" />
       </list>
     </option>
   </component>
