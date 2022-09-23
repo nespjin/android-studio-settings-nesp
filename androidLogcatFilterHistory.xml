@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onCreateView" />
+    <option name="mostRecentlyUsed" value="Fragment" />
     <option name="nonFavorites">
       <list>
+        <option value="Fragment" />
         <option value="onCreateView" />
         <option value="HomeFragment" />
         <option value="AppBaseFragment" />
-        <option value="Fragment" />
         <option value="mqtt" />
         <option value="ok" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFlag=53efb1ec961441d492bbc30fe470e099" />
