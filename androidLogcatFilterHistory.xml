@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppBaseFragment" />
+    <option name="mostRecentlyUsed" value="onCreateView" />
     <option name="nonFavorites">
       <list>
-        <option value="AppBaseFragment" />
+        <option value="onCreateView" />
         <option value="HomeFragment" />
+        <option value="AppBaseFragment" />
         <option value="Fragment" />
         <option value="mqtt" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="OkHttpClient" />
         <option value="package:com.chintapp " />
         <option value="AppBas" />
-        <option value="AppBaseActivity" />
       </list>
     </option>
   </component>
