@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="QRCodeLoginFragment" />
+        <option value="package:mine" />
         <option value="HomePartialLoginFragment" />
         <option value="tag:HomePartialLoginFragment" />
         <option value="Fragment" />
@@ -22,7 +23,6 @@
         <option value="Connectivit" />
         <option value="HomeViewModel" />
         <option value="Home" />
-        <option value="HomePartialWeatherFragment" />
       </list>
     </option>
   </component>
