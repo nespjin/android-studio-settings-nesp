@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Fragment" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="HomePartialLoginFragment" />
+        <option value="tag:HomePartialLoginFragment" />
         <option value="Fragment" />
         <option value="onCreateView" />
         <option value="HomeFragment" />
@@ -21,8 +23,6 @@
         <option value="Home" />
         <option value="HomePartialWeatherFragment" />
         <option value="OkHttpClient" />
-        <option value="package:com.chintapp " />
-        <option value="AppBas" />
       </list>
     </option>
   </component>
