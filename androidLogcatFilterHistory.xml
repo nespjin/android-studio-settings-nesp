@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Inject" />
+    <option name="mostRecentlyUsed" value="getMirrorSnByMac" />
     <option name="nonFavorites">
       <list>
+        <option value="getMirrorSnByMac" />
+        <option value="HomeHostViewModel" />
         <option value="Inject" />
         <option value="getA" />
         <option value="getQRCodeState" />
@@ -21,8 +23,6 @@
         <option value="MqttClient" />
         <option value="ppBaseMqtt" />
         <option value="connection" />
-        <option value="Fra" />
-        <option value="ConnectivityObserverImpl" />
       </list>
     </option>
   </component>
