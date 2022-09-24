@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getMirrorSnByMac" />
+    <option name="mostRecentlyUsed" value="mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="mqtt" />
         <option value="getMirrorSnByMac" />
         <option value="HomeHostViewModel" />
         <option value="Inject" />
         <option value="getA" />
         <option value="getQRCodeState" />
         <option value="ok" />
-        <option value="mqtt" />
         <option value="Fragment" />
         <option value="QRCodeLoginFragment" />
         <option value="package:mine" />
