@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="昨天" />
       <item value="电量" />
       <item value="Electric Energy" />
       <item value="Energy" />
@@ -54,12 +55,11 @@
       <item value="隐私政策" />
       <item value="用户协议" />
       <item value="tv bottom user privacy policy" />
-      <item value="三角形" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="473" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="474" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
         <entry key="WELSH" value="1" />
