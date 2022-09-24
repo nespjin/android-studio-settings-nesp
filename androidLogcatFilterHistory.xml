@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getA" />
+    <option name="mostRecentlyUsed" value="Inject" />
     <option name="nonFavorites">
       <list>
+        <option value="Inject" />
         <option value="getA" />
         <option value="getQRCodeState" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="connection" />
         <option value="Fra" />
         <option value="ConnectivityObserverImpl" />
-        <option value="Connectivit" />
       </list>
     </option>
   </component>
