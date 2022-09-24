@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="electrict&#10;" />
+      <item value="electrict" />
+      <item value="electricti" />
+      <item value="electrictio" />
+      <item value="electriction" />
+      <item value="fragment statistics electriction" />
       <item value="user dialog fragment partial validate code login" />
       <item value="switch Password Visibility" />
       <item value="get Qr Code Status" />
@@ -49,12 +55,6 @@
       <item value="longitude" />
       <item value="Delete this file with all its children. Note that if this operation fails then partial deletion may have taken place." />
       <item value="is Topic Not Avaliable" />
-      <item value="persistence" />
-      <item value="bais" />
-      <item value="Assume we can read the whole header at once. The header is very small so it's likely we are able to read it fully or not at all. This keeps the parser lean since we don't need to cope with a partial header. Should we lose synch with the stream, the keepalive mechanism would kick in closing the connection." />
-      <item value="REASON CODE CLIENT EXCEPTION" />
-      <item value="folders" />
-      <item value="is Minify Enabled" />
     </histories>
     <option name="languageScores">
       <map>
