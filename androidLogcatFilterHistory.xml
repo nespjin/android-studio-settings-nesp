@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BreakerRemoteDataSource" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="BreakerRemoteDataSource" />
         <option value="tag:BreakerRemoteDataSource" />
         <option value="package:com.chintapp tag:BreakerRemoteDataSource" />
         <option value="package:com.chintapp " />
         <option value="tracing the flow" />
-        <option value="ok" />
         <option value="getA" />
         <option value="package:mine" />
         <option value="mqtt" />
