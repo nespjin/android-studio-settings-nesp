@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="iv role smail" />
       <item value="get Energy Proportion" />
       <item value="后缀" />
       <item value="Subfix" />
@@ -54,12 +55,12 @@
       <item value="occurs Time" />
       <item value="无漏电" />
       <item value="别名" />
-      <item value="Chint Mqtt Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
+        <entry key="CHINESE" value="479" />
         <entry key="ENGLISH" value="479" />
+        <entry key="CROATIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
         <entry key="WELSH" value="1" />
