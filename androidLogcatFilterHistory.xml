@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqtt" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="mqtt" />
         <option value="ok" />
         <option value="getMirrorSnByMac" />
@@ -12,7 +13,6 @@
         <option value="getQRCodeState" />
         <option value="Fragment" />
         <option value="QRCodeLoginFragment" />
-        <option value="package:mine" />
         <option value="HomePartialLoginFragment" />
         <option value="tag:HomePartialLoginFragment" />
         <option value="onCreateView" />
