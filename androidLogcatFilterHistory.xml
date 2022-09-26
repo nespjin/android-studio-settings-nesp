@@ -3,13 +3,13 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="getA" />
         <option value="package:mine" />
         <option value="mqtt" />
         <option value="ok" />
         <option value="getMirrorSnByMac" />
         <option value="HomeHostViewModel" />
         <option value="Inject" />
-        <option value="getA" />
         <option value="getQRCodeState" />
         <option value="Fragment" />
         <option value="QRCodeLoginFragment" />
