@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="getA" />
         <option value="package:mine" />
         <option value="mqtt" />
-        <option value="ok" />
         <option value="getMirrorSnByMac" />
         <option value="HomeHostViewModel" />
         <option value="Inject" />
