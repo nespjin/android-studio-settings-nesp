@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tracing the alarm:" />
+    <option name="mostRecentlyUsed" value="HouseIdChangedBroadcastReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="HouseIdChangedBroadcastReceiver" />
+        <option value="mqtt" />
         <option value="tracing the alarm:" />
         <option value="OtherSettingsFragment" />
         <option value="logout" />
@@ -14,7 +16,6 @@
         <option value="tracing the flow" />
         <option value="getA" />
         <option value="package:mine" />
-        <option value="mqtt" />
         <option value="getMirrorSnByMac" />
         <option value="HomeHostViewModel" />
         <option value="Inject" />
@@ -22,7 +23,6 @@
         <option value="Fragment" />
         <option value="QRCodeLoginFragment" />
         <option value="HomePartialLoginFragment" />
-        <option value="tag:HomePartialLoginFragment" />
       </list>
     </option>
   </component>
