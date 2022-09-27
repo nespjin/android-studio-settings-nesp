@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="logout" />
         <option value="ok" />
         <option value="BreakerRemoteDataSource" />
         <option value="tag:BreakerRemoteDataSource" />
@@ -22,7 +23,6 @@
         <option value="tag:HomePartialLoginFragment" />
         <option value="onCreateView" />
         <option value="HomeFragment" />
-        <option value="AppBaseFragment" />
       </list>
     </option>
   </component>
