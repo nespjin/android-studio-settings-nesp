@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="OtherSettingsFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="OtherSettingsFragment" />
         <option value="logout" />
         <option value="ok" />
         <option value="BreakerRemoteDataSource" />
@@ -22,7 +23,6 @@
         <option value="HomePartialLoginFragment" />
         <option value="tag:HomePartialLoginFragment" />
         <option value="onCreateView" />
-        <option value="HomeFragment" />
       </list>
     </option>
   </component>
