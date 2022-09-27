@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="update Silenc" />
+      <item value="静默" />
       <item value="update House Id Cache If Necessary" />
       <item value="get Breakers With Level Stream 2" />
       <item value="iv role smail" />
@@ -53,8 +55,6 @@
       <item value="high temperature" />
       <item value="高温" />
       <item value="欠压" />
-      <item value="过压" />
-      <item value="occurs Time" />
     </histories>
     <option name="languageScores">
       <map>
