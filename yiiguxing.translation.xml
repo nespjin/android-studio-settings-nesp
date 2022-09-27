@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="update House Id Cache If Necessary" />
       <item value="get Breakers With Level Stream 2" />
       <item value="iv role smail" />
       <item value="get Energy Proportion" />
@@ -54,12 +55,11 @@
       <item value="欠压" />
       <item value="过压" />
       <item value="occurs Time" />
-      <item value="无漏电" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="CROATIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="8" />
