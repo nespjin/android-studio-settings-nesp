@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="OtherSettingsFragment" />
+    <option name="mostRecentlyUsed" value="tracing the alarm:" />
     <option name="nonFavorites">
       <list>
+        <option value="tracing the alarm:" />
         <option value="OtherSettingsFragment" />
         <option value="logout" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="QRCodeLoginFragment" />
         <option value="HomePartialLoginFragment" />
         <option value="tag:HomePartialLoginFragment" />
-        <option value="onCreateView" />
       </list>
     </option>
   </component>
