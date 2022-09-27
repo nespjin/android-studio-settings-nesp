@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HouseIdChangedBroadcastReceiver" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="onReceive" />
+        <option value="LoginChangedBroadcastReceiver" />
         <option value="HouseIdChangedBroadcastReceiver" />
         <option value="mqtt" />
         <option value="tracing the alarm:" />
@@ -21,8 +23,6 @@
         <option value="Inject" />
         <option value="getQRCodeState" />
         <option value="Fragment" />
-        <option value="QRCodeLoginFragment" />
-        <option value="HomePartialLoginFragment" />
       </list>
     </option>
   </component>
