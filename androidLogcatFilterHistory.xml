@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqtt" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="mqtt" />
+        <option value="getMirrorSnByMac" />
         <option value="qttService" />
         <option value="Mqt" />
         <option value="m" />
-        <option value="ok" />
         <option value="HouseIdChangedBroadcastReceiver" />
         <option value="Receiver" />
         <option value="onReceive" />
@@ -22,7 +23,6 @@
         <option value="tracing the flow" />
         <option value="getA" />
         <option value="package:mine" />
-        <option value="getMirrorSnByMac" />
       </list>
     </option>
   </component>
