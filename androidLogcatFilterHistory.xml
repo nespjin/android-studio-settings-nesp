@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="mqtt" />
+        <option value="package:com.chintapp" />
         <option value="mirrorSn" />
         <option value="GLocation" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="tracing the alarm:" />
         <option value="OtherSettingsFragment" />
         <option value="logout" />
-        <option value="BreakerRemoteDataSource" />
       </list>
     </option>
   </component>
