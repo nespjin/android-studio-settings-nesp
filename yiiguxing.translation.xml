@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Alarm" />
       <item value="自动组网" />
       <item value="update Silenc" />
       <item value="静默" />
@@ -54,7 +55,6 @@
       <item value="漏电" />
       <item value="过载" />
       <item value="high temperature" />
-      <item value="高温" />
     </histories>
     <option name="languageScores">
       <map>
