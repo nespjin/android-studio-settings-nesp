@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="m" />
     <option name="nonFavorites">
       <list>
+        <option value="m" />
         <option value="ok" />
         <option value="HouseIdChangedBroadcastReceiver" />
         <option value="Receiver" />
@@ -22,7 +23,6 @@
         <option value="getMirrorSnByMac" />
         <option value="HomeHostViewModel" />
         <option value="Inject" />
-        <option value="getQRCodeState" />
       </list>
     </option>
   </component>
