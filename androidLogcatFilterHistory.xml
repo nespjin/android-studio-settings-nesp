@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getCircuitBreakerList" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
-        <option value="getCircuitBreakerList" />
+        <option value="ok" />
         <option value="mqtt" />
+        <option value="getCircuitBreakerList" />
         <option value="AppHostActivity" />
         <option value="onCreate" />
         <option value="width" />
-        <option value="ok" />
         <option value="getMirrorSnByMac" />
         <option value="qttService" />
         <option value="Mqt" />
