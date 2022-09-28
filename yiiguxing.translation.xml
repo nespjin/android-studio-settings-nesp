@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="自动组网" />
       <item value="update Silenc" />
       <item value="静默" />
       <item value="update House Id Cache If Necessary" />
@@ -54,7 +55,6 @@
       <item value="过载" />
       <item value="high temperature" />
       <item value="高温" />
-      <item value="欠压" />
     </histories>
     <option name="languageScores">
       <map>
