@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Updater" />
       <item value="STATE IDLE" />
       <item value="Update Bundle" />
       <item value="Alarm" />
@@ -54,7 +55,6 @@
       <item value="欠频" />
       <item value="过频" />
       <item value="断相" />
-      <item value="漏电" />
     </histories>
     <option name="languageScores">
       <map>
