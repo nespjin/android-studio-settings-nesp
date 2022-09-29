@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Update Bundle" />
       <item value="Alarm" />
       <item value="自动组网" />
       <item value="update Silenc" />
@@ -54,7 +55,6 @@
       <item value="断相" />
       <item value="漏电" />
       <item value="过载" />
-      <item value="high temperature" />
     </histories>
     <option name="languageScores">
       <map>
