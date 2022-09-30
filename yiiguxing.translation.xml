@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="INVALID VERSION CODE" />
       <item value="归档" />
       <item value="打包" />
       <item value="Updater" />
@@ -54,7 +55,6 @@
       <item value="to avoid creation of a synthetic accessor" />
       <item value="Leveled Breakers" />
       <item value="短路" />
-      <item value="欠频" />
     </histories>
     <option name="languageScores">
       <map>
