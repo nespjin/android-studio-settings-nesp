@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="归档" />
+      <item value="打包" />
       <item value="Updater" />
       <item value="STATE IDLE" />
       <item value="Update Bundle" />
@@ -53,8 +55,6 @@
       <item value="Leveled Breakers" />
       <item value="短路" />
       <item value="欠频" />
-      <item value="过频" />
-      <item value="断相" />
     </histories>
     <option name="languageScores">
       <map>
