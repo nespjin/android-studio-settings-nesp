@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqt" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="mqtt" />
         <option value="mqt" />
-        <option value="ok" />
         <option value="package:com.chintapp" />
         <option value="mirrorSn" />
         <option value="GLocation" />
