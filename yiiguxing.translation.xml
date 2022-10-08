@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Mqtt Callback Extended" />
       <item value="ARGUMENT KEY LOCATE VALUE" />
       <item value="INVALID VERSION CODE" />
       <item value="归档" />
@@ -54,7 +55,6 @@
       <item value="fragment party weather" />
       <item value="显示设置" />
       <item value="to avoid creation of a synthetic accessor" />
-      <item value="Leveled Breakers" />
     </histories>
     <option name="languageScores">
       <map>
