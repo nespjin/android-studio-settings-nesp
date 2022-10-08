@@ -5,7 +5,7 @@
         <entry key="kotlin" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
