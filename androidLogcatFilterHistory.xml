@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqtt" />
+    <option name="mostRecentlyUsed" value="package:com.chintapp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.chintapp " />
+        <option value="package:cim" />
+        <option value="CacheManager" />
         <option value="mqtt" />
         <option value="UpdaterManager" />
         <option value="ok" />
@@ -20,9 +23,6 @@
         <option value="m" />
         <option value="HouseIdChangedBroadcastReceiver" />
         <option value="Receiver" />
-        <option value="onReceive" />
-        <option value="LoginChangedBroadcastReceiver" />
-        <option value="tracing the alarm:" />
       </list>
     </option>
   </component>
