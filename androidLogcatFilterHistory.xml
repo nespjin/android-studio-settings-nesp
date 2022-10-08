@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="mqtt" />
         <option value="UpdaterManager" />
         <option value="ok" />
-        <option value="mqtt" />
         <option value="mqt" />
         <option value="package:com.chintapp" />
         <option value="mirrorSn" />
