@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="UpdaterManager" />
     <option name="nonFavorites">
       <list>
+        <option value="UpdaterManager" />
         <option value="ok" />
         <option value="mqtt" />
         <option value="mqt" />
@@ -22,7 +23,6 @@
         <option value="onReceive" />
         <option value="LoginChangedBroadcastReceiver" />
         <option value="tracing the alarm:" />
-        <option value="OtherSettingsFragment" />
       </list>
     </option>
   </component>
