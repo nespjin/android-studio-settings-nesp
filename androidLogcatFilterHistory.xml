@@ -1,14 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.chintapp " />
+    <option name="mostRecentlyUsed" value="getHouseByTerminalBoxId" />
     <option name="nonFavorites">
       <list>
+        <option value="getHouseByTerminalBoxId" />
+        <option value="okhttp getHouseByTerminalBoxId" />
+        <option value="okhttp" />
+        <option value="ok" />
         <option value="package:com.chintapp " />
         <option value="package:cim" />
         <option value="CacheManager" />
         <option value="mqtt" />
         <option value="UpdaterManager" />
-        <option value="ok" />
         <option value="mqt" />
         <option value="package:com.chintapp" />
         <option value="mirrorSn" />
@@ -20,9 +23,6 @@
         <option value="getMirrorSnByMac" />
         <option value="qttService" />
         <option value="Mqt" />
-        <option value="m" />
-        <option value="HouseIdChangedBroadcastReceiver" />
-        <option value="Receiver" />
       </list>
     </option>
   </component>
