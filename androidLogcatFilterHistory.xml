@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BreakerListViewModel" />
+    <option name="mostRecentlyUsed" value="HomePartial" />
     <option name="nonFavorites">
       <list>
+        <option value="HomePartial" />
+        <option value="HomePartialAlarmFragment" />
         <option value="BreakerListViewModel" />
         <option value="mqtt" />
         <option value="flow" />
@@ -21,8 +23,6 @@
         <option value="mqt" />
         <option value="package:com.chintapp" />
         <option value="mirrorSn" />
-        <option value="GLocation" />
-        <option value="getCircuitBreakerList" />
       </list>
     </option>
   </component>
