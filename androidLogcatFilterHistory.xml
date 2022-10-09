@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="BreakerListViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="BreakerListViewModel" />
+        <option value="mqtt" />
         <option value="flow" />
         <option value="terminalBoxPowerMonth" />
         <option value="HomeViewModel " />
@@ -15,14 +17,12 @@
         <option value="package:com.chintapp " />
         <option value="package:cim" />
         <option value="CacheManager" />
-        <option value="mqtt" />
         <option value="UpdaterManager" />
         <option value="mqt" />
         <option value="package:com.chintapp" />
         <option value="mirrorSn" />
         <option value="GLocation" />
         <option value="getCircuitBreakerList" />
-        <option value="AppHostActivity" />
       </list>
     </option>
   </component>
