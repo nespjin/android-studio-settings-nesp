@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomePartial" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="HomePartial" />
         <option value="HomePartialAlarmFragment" />
         <option value="BreakerListViewModel" />
@@ -15,7 +16,6 @@
         <option value="getHouseByTerminalBoxId" />
         <option value="okhttp getHouseByTerminalBoxId" />
         <option value="okhttp" />
-        <option value="ok" />
         <option value="package:com.chintapp " />
         <option value="package:cim" />
         <option value="CacheManager" />
