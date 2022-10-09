@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getHouseByTerminalBoxId" />
+    <option name="mostRecentlyUsed" value="HomeViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="HomeViewModel" />
         <option value="getHouseByTerminalBoxId" />
         <option value="okhttp getHouseByTerminalBoxId" />
         <option value="okhttp" />
@@ -22,7 +23,6 @@
         <option value="width" />
         <option value="getMirrorSnByMac" />
         <option value="qttService" />
-        <option value="Mqt" />
       </list>
     </option>
   </component>
