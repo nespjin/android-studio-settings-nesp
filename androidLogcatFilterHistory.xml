@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="flow" />
     <option name="nonFavorites">
       <list>
+        <option value="flow" />
         <option value="terminalBoxPowerMonth" />
         <option value="HomeViewModel " />
         <option value="Flow" />
@@ -22,7 +23,6 @@
         <option value="GLocation" />
         <option value="getCircuitBreakerList" />
         <option value="AppHostActivity" />
-        <option value="onCreate" />
       </list>
     </option>
   </component>
