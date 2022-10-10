@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="summary" />
       <item value="Mqtt Callback Extended" />
       <item value="ARGUMENT KEY LOCATE VALUE" />
       <item value="INVALID VERSION CODE" />
@@ -54,7 +55,6 @@
       <item value="fragment partical weather" />
       <item value="fragment party weather" />
       <item value="显示设置" />
-      <item value="to avoid creation of a synthetic accessor" />
     </histories>
     <option name="languageScores">
       <map>
