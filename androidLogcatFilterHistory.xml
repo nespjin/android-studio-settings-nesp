@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mirrorReport" />
+    <option name="mostRecentlyUsed" value="CacheManager" />
     <option name="nonFavorites">
       <list>
+        <option value="CacheManager" />
+        <option value="Cac" />
         <option value="mirrorReport" />
         <option value="ok" />
         <option value="report" />
@@ -21,8 +23,6 @@
         <option value="okhttp getHouseByTerminalBoxId" />
         <option value="okhttp" />
         <option value="package:com.chintapp " />
-        <option value="package:cim" />
-        <option value="CacheManager" />
       </list>
     </option>
   </component>
