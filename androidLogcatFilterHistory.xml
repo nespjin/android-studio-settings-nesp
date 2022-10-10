@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomePartialElectricity" />
+    <option name="mostRecentlyUsed" value="force" />
     <option name="nonFavorites">
       <list>
+        <option value="force" />
         <option value="HomePartialElectricity" />
         <option value="HomePartialElectricitySummaryFragment" />
         <option value="CacheManager" />
@@ -22,7 +23,6 @@
         <option value="Flow" />
         <option value="HomeViewModel" />
         <option value="getHouseByTerminalBoxId" />
-        <option value="okhttp getHouseByTerminalBoxId" />
       </list>
     </option>
   </component>
