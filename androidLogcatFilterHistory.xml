@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="force" />
+    <option name="mostRecentlyUsed" value="MethodTakeTimeMeasurer" />
     <option name="nonFavorites">
       <list>
+        <option value="MethodTakeTimeMeasurer" />
+        <option value="inflate takes time" />
+        <option value="inflate takes" />
+        <option value="onViewCreated" />
         <option value="force" />
         <option value="HomePartialElectricity" />
         <option value="HomePartialElectricitySummaryFragment" />
@@ -19,10 +23,6 @@
         <option value="BreakerListViewModel" />
         <option value="flow" />
         <option value="terminalBoxPowerMonth" />
-        <option value="HomeViewModel " />
-        <option value="Flow" />
-        <option value="HomeViewModel" />
-        <option value="getHouseByTerminalBoxId" />
       </list>
     </option>
   </component>
