@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqtt" />
+    <option name="mostRecentlyUsed" value="mirrorReport" />
     <option name="nonFavorites">
       <list>
-        <option value="mqtt" />
+        <option value="mirrorReport" />
         <option value="ok" />
+        <option value="report" />
+        <option value="repo" />
+        <option value="forc" />
+        <option value="mqtt" />
         <option value="HomePartial" />
         <option value="HomePartialAlarmFragment" />
         <option value="BreakerListViewModel" />
@@ -19,10 +23,6 @@
         <option value="package:com.chintapp " />
         <option value="package:cim" />
         <option value="CacheManager" />
-        <option value="UpdaterManager" />
-        <option value="mqt" />
-        <option value="package:com.chintapp" />
-        <option value="mirrorSn" />
       </list>
     </option>
   </component>
