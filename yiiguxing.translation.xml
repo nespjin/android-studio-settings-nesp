@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="set Max Inflight" />
       <item value="home no connect network banner piece_1" />
       <item value="summary" />
       <item value="Mqtt Callback Extended" />
@@ -54,7 +55,6 @@
       <item value="Partical" />
       <item value="partical" />
       <item value="fragment partical weather" />
-      <item value="fragment party weather" />
     </histories>
     <option name="languageScores">
       <map>
