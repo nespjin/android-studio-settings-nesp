@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="Mqtt" />
         <option value="ok" />
         <option value="mqtt" />
         <option value="getVer" />
@@ -22,7 +23,6 @@
         <option value="mirrorReport" />
         <option value="report" />
         <option value="repo" />
-        <option value="forc" />
       </list>
     </option>
   </component>
