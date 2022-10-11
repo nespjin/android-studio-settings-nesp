@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MethodTakeTimeMeasurer" />
+    <option name="mostRecentlyUsed" value="measuredHeight" />
     <option name="nonFavorites">
       <list>
+        <option value="measuredHeight" />
         <option value="MethodTakeTimeMeasurer" />
         <option value="Meth" />
         <option value="Method" />
@@ -22,7 +23,6 @@
         <option value="mqtt" />
         <option value="HomePartial" />
         <option value="HomePartialAlarmFragment" />
-        <option value="BreakerListViewModel" />
       </list>
     </option>
   </component>
