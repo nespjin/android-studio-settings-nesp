@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
+        <option value="mqtt" />
         <option value="getVer" />
         <option value="Method" />
         <option value="onRes" />
@@ -18,11 +20,9 @@
         <option value="CacheManager" />
         <option value="Cac" />
         <option value="mirrorReport" />
-        <option value="ok" />
         <option value="report" />
         <option value="repo" />
         <option value="forc" />
-        <option value="mqtt" />
       </list>
     </option>
   </component>
