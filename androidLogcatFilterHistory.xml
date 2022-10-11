@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="measuredHeight" />
+    <option name="mostRecentlyUsed" value="onRes" />
     <option name="nonFavorites">
       <list>
-        <option value="measuredHeight" />
+        <option value="onRes" />
         <option value="MethodTakeTimeMeasurer" />
-        <option value="Meth" />
         <option value="Method" />
+        <option value="measuredHeight" />
+        <option value="Meth" />
         <option value="force" />
         <option value="inflate takes time" />
         <option value="inflate takes" />
@@ -22,7 +23,6 @@
         <option value="forc" />
         <option value="mqtt" />
         <option value="HomePartial" />
-        <option value="HomePartialAlarmFragment" />
       </list>
     </option>
   </component>
