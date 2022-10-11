@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onRes" />
+    <option name="mostRecentlyUsed" value="Method" />
     <option name="nonFavorites">
       <list>
+        <option value="Method" />
         <option value="onRes" />
         <option value="MethodTakeTimeMeasurer" />
-        <option value="Method" />
         <option value="measuredHeight" />
         <option value="Meth" />
         <option value="force" />
