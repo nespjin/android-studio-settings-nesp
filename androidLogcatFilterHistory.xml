@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="OnMqttLogPrintListener" />
+    <option name="mostRecentlyUsed" value="AlarmPingSender" />
     <option name="nonFavorites">
       <list>
+        <option value="AlarmPingSender" />
+        <option value="ping" />
         <option value="OnMqttLogPrintListener" />
         <option value="Mqtt" />
         <option value="ok" />
@@ -21,8 +23,6 @@
         <option value="HomePartialElectricitySummaryFragment" />
         <option value="CacheManager" />
         <option value="Cac" />
-        <option value="mirrorReport" />
-        <option value="report" />
       </list>
     </option>
   </component>
