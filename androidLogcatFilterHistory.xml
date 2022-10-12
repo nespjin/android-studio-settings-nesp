@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AlarmPingSender" />
     <option name="nonFavorites">
       <list>
-        <option value="getVersion" />
         <option value="AlarmPingSender" />
+        <option value="Mqtt" />
+        <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
+        <option value="get" />
+        <option value="mqtt" />
+        <option value="Alarm" />
+        <option value="getVersion" />
         <option value="ping" />
         <option value="OnMqttLogPrintListener" />
-        <option value="Mqtt" />
         <option value="ok" />
-        <option value="mqtt" />
         <option value="getVer" />
         <option value="Method" />
         <option value="onRes" />
@@ -20,9 +23,6 @@
         <option value="inflate takes time" />
         <option value="inflate takes" />
         <option value="onViewCreated" />
-        <option value="HomePartialElectricity" />
-        <option value="HomePartialElectricitySummaryFragment" />
-        <option value="CacheManager" />
       </list>
     </option>
   </component>
