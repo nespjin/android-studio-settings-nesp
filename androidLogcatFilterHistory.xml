@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mqtt" />
+    <option name="mostRecentlyUsed" value=" package:com.chintapp " />
     <option name="nonFavorites">
       <list>
+        <option value=" package:com.chintapp " />
+        <option value=" package:com.chintapp mqtt" />
+        <option value=" " />
         <option value="mqtt" />
         <option value="15786294430213079046" />
         <option value="GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
@@ -10,7 +13,6 @@
         <option value="getQrCodeStatus" />
         <option value=" GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFlag" />
         <option value=" http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
-        <option value=" " />
         <option value="AppBaseMqtt" />
         <option value="AppMqtt" />
         <option value="ConnectivityService" />
@@ -21,8 +23,6 @@
         <option value="Alarm" />
         <option value="getVersion" />
         <option value="ping" />
-        <option value="OnMqttLogPrintListener" />
-        <option value="ok" />
       </list>
     </option>
   </component>
