@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="mqtt" />
+        <option value="AppBaseMqtt" />
+        <option value="AppMqtt" />
         <option value="ConnectivityService" />
         <option value="AlarmPingSender" />
         <option value="Mqtt" />
@@ -21,8 +23,6 @@
         <option value="measuredHeight" />
         <option value="Meth" />
         <option value="force" />
-        <option value="inflate takes time" />
-        <option value="inflate takes" />
       </list>
     </option>
   </component>
