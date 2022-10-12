@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="ConnectivityService" />
         <option value="AlarmPingSender" />
         <option value="Mqtt" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
@@ -22,7 +23,6 @@
         <option value="force" />
         <option value="inflate takes time" />
         <option value="inflate takes" />
-        <option value="onViewCreated" />
       </list>
     </option>
   </component>
