@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level: error " />
+    <option name="mostRecentlyUsed" value="mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="mqtt" />
         <option value="level: error " />
         <option value="HomePartialElectricitySummaryViewModel" />
-        <option value="mqtt" />
         <option value="AppBaseFragment" />
         <option value="AppBas" />
         <option value="terminalBoxElectricitySummarySync" />
