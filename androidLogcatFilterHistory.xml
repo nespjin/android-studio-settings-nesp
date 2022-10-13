@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="invalidateSummaryViews" />
+    <option name="mostRecentlyUsed" value="terminalBoxElectricitySummarySync" />
     <option name="nonFavorites">
       <list>
-        <option value="invalidateSummaryViews" />
         <option value="terminalBoxElectricitySummarySync" />
+        <option value="invalidateSummaryViews" />
         <option value="mqtt" />
         <option value="AlarmPin" />
         <option value="combine" />
