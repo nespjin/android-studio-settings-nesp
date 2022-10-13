@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initializeGatewayOnlineObserver" />
+    <option name="mostRecentlyUsed" value="Mqtt Client State:" />
     <option name="nonFavorites">
       <list>
+        <option value="Mqtt Client State:" />
+        <option value="Client " />
+        <option value="Client" />
         <option value="initializeGatewayOnlineObserver" />
         <option value="AppBaseFragment" />
         <option value="AppBas" />
@@ -20,9 +23,6 @@
         <option value="15786294430213079046" />
         <option value="GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
         <option value="GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFlag=" />
-        <option value="getQrCodeStatus" />
-        <option value=" GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFlag" />
-        <option value=" http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
       </list>
     </option>
   </component>
