@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TopicManager" />
+    <option name="mostRecentlyUsed" value="TopicMa" />
     <option name="nonFavorites">
       <list>
+        <option value="TopicMa" />
         <option value="TopicManager" />
         <option value="Mqtt" />
         <option value="MqttClientImpl:subscribe: topic = Topic" />
@@ -22,7 +23,6 @@
         <option value="BreakerListViewModel" />
         <option value="Home" />
         <option value="Mqtt Client State" />
-        <option value="AlarmPingSender" />
       </list>
     </option>
   </component>
