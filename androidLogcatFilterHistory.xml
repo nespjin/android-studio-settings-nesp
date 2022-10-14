@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="TopicManager" />
     <option name="nonFavorites">
       <list>
+        <option value="TopicManager" />
+        <option value="topic" />
+        <option value="mqtt" />
+        <option value="BreakerListViewModel" />
         <option value="Home" />
         <option value="Mqtt Client State" />
         <option value="AlarmPingSender" />
@@ -12,7 +16,6 @@
         <option value="initializeGatewayOnlineObserver" />
         <option value="AppBaseFragment" />
         <option value="AppBas" />
-        <option value="mqtt" />
         <option value="level: error " />
         <option value="HomePartialElectricitySummaryViewModel" />
         <option value="terminalBoxElectricitySummarySync" />
@@ -20,9 +23,6 @@
         <option value="AlarmPin" />
         <option value="combine" />
         <option value=" package:com.chintapp mqtt" />
-        <option value=" package:com.chintapp " />
-        <option value=" " />
-        <option value="15786294430213079046" />
       </list>
     </option>
   </component>
