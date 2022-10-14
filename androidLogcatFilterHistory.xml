@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Home" />
         <option value="Mqtt Client State" />
         <option value="AlarmPingSender" />
         <option value="Mqtt Client State:" />
@@ -22,7 +23,6 @@
         <option value=" package:com.chintapp " />
         <option value=" " />
         <option value="15786294430213079046" />
-        <option value="GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
       </list>
     </option>
   </component>
