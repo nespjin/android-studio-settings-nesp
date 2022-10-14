@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Mqtt Client State:" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Mqtt Client State" />
+        <option value="AlarmPingSender" />
         <option value="Mqtt Client State:" />
         <option value="Client " />
         <option value="Client" />
@@ -16,13 +18,11 @@
         <option value="invalidateSummaryViews" />
         <option value="AlarmPin" />
         <option value="combine" />
-        <option value="AlarmPingSender" />
         <option value=" package:com.chintapp mqtt" />
         <option value=" package:com.chintapp " />
         <option value=" " />
         <option value="15786294430213079046" />
         <option value="GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
-        <option value="GET http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFlag=" />
       </list>
     </option>
   </component>
