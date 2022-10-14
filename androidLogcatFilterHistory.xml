@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TopicMa" />
+    <option name="mostRecentlyUsed" value="TopicManager" />
     <option name="nonFavorites">
       <list>
-        <option value="TopicMa" />
         <option value="TopicManager" />
+        <option value="ok" />
+        <option value="TopicMa" />
         <option value="Mqtt" />
         <option value="MqttClientImpl:subscribe: topic = Topic" />
         <option value="MqttClientImpl:subscribe: topic " />
@@ -18,7 +19,6 @@
         <option value="getQR" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFl" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
-        <option value="ok" />
         <option value="topic" />
         <option value="BreakerListViewModel" />
         <option value="Home" />
