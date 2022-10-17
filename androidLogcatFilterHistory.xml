@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="encodedPath" />
+    <option name="mostRecentlyUsed" value="upload" />
     <option name="nonFavorites">
       <list>
+        <option value="upload" />
+        <option value="package:com.chintapp " />
         <option value="encodedPath" />
         <option value="uploadLog" />
         <option value="ok" />
@@ -21,8 +23,6 @@
         <option value="Mqtt" />
         <option value="2022-10-17 10:06:27.913   428-460   BatteryStatsService" />
         <option value="level:error " />
-        <option value="TopicManager" />
-        <option value="TopicMa" />
       </list>
     </option>
   </component>
