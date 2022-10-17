@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="encodedPath" />
     <option name="nonFavorites">
       <list>
+        <option value="encodedPath" />
+        <option value="uploadLog" />
+        <option value="ok" />
         <option value="level:" />
         <option value="MethodTakeTimeMeasurer" />
         <option value="MethodTa" />
@@ -19,10 +22,7 @@
         <option value="2022-10-17 10:06:27.913   428-460   BatteryStatsService" />
         <option value="level:error " />
         <option value="TopicManager" />
-        <option value="ok" />
         <option value="TopicMa" />
-        <option value="MqttClientImpl:subscribe: topic = Topic" />
-        <option value="MqttClientImpl:subscribe: topic " />
       </list>
     </option>
   </component>
