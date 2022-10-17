@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Topic" />
+        <option value="AppMqtt" />
+        <option value="Mqtt" />
+        <option value="2022-10-17 10:06:27.913   428-460   BatteryStatsService" />
         <option value="level:error " />
         <option value="TopicManager" />
         <option value="ok" />
         <option value="TopicMa" />
-        <option value="Mqtt" />
         <option value="MqttClientImpl:subscribe: topic = Topic" />
         <option value="MqttClientImpl:subscribe: topic " />
         <option value="MqttClientImpl:subscribe" />
@@ -20,9 +23,6 @@
         <option value="getQR" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFl" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
-        <option value="topic" />
-        <option value="BreakerListViewModel" />
-        <option value="Home" />
       </list>
     </option>
   </component>
