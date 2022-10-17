@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MethodTakeTimeMeasurer" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="level:" />
         <option value="MethodTakeTimeMeasurer" />
         <option value="MethodTa" />
         <option value="AppBa" />
@@ -22,7 +23,6 @@
         <option value="TopicMa" />
         <option value="MqttClientImpl:subscribe: topic = Topic" />
         <option value="MqttClientImpl:subscribe: topic " />
-        <option value="MqttClientImpl:subscribe" />
       </list>
     </option>
   </component>
