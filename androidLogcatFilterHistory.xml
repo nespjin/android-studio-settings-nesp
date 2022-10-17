@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AsyncLayoutInflater" />
+    <option name="mostRecentlyUsed" value="MethodTa" />
     <option name="nonFavorites">
       <list>
+        <option value="MethodTa" />
         <option value="AsyncLayoutInflater" />
         <option value="Async" />
         <option value="MethodTakeTimeMeasurer" />
@@ -22,7 +23,6 @@
         <option value="MqttClientImpl:subscribe" />
         <option value="mqtt" />
         <option value="InjectHeadersInterceptor" />
-        <option value="user/getAccountInfo" />
       </list>
     </option>
   </component>
