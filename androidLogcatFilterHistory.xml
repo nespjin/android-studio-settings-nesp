@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AsyncLayoutInflater" />
     <option name="nonFavorites">
       <list>
+        <option value="AsyncLayoutInflater" />
+        <option value="Async" />
+        <option value="MethodTakeTimeMeasurer" />
+        <option value="Method" />
+        <option value="Mea" />
+        <option value="measuredHeight" />
         <option value="Topic" />
         <option value="AppMqtt" />
         <option value="Mqtt" />
@@ -17,12 +23,6 @@
         <option value="mqtt" />
         <option value="InjectHeadersInterceptor" />
         <option value="user/getAccountInfo" />
-        <option value="getUs" />
-        <option value="get" />
-        <option value=" http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
-        <option value="getQR" />
-        <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus?requestFl" />
-        <option value="http://wpanel-iot-test.chint-lv.com:8001/app/user/getQrCodeStatus" />
       </list>
     </option>
   </component>
