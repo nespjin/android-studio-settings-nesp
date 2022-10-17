@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.chintapp MqttClientImpl" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
+        <option value="package:com.chintapp updateLog" />
+        <option value="package:com.chintapp " />
         <option value="package:com.chintapp MqttClientImpl" />
         <option value="package:com.chintapp com.app.support.mqtt.AppMqtt.messageArrived" />
         <option value="package:com.chintapp AppMqtt" />
         <option value="package:com.chintapp mqtt" />
-        <option value="package:com.chintapp " />
         <option value="upload" />
         <option value="encodedPath" />
         <option value="uploadLog" />
-        <option value="ok" />
         <option value="level:" />
         <option value="MethodTakeTimeMeasurer" />
         <option value="MethodTa" />
@@ -22,7 +23,6 @@
         <option value="Method" />
         <option value="Mea" />
         <option value="measuredHeight" />
-        <option value="Topic" />
       </list>
     </option>
   </component>
