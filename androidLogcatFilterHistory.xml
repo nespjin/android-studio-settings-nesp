@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppBa" />
+    <option name="mostRecentlyUsed" value="MethodTakeTimeMeasurer" />
     <option name="nonFavorites">
       <list>
-        <option value="AppBa" />
         <option value="MethodTakeTimeMeasurer" />
-        <option value="router map" />
         <option value="MethodTa" />
+        <option value="AppBa" />
+        <option value="router map" />
         <option value="AsyncLayoutInflater" />
         <option value="Async" />
         <option value="Method" />
