@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
+        <option value="ping" />
         <option value="MethodTa" />
         <option value="FilePrinter" />
-        <option value="ok" />
         <option value="SystemRemoteDataSource" />
         <option value="package:com.chintapp updateLog" />
         <option value="package:com.chintapp " />
@@ -22,7 +23,6 @@
         <option value="router map" />
         <option value="AsyncLayoutInflater" />
         <option value="Async" />
-        <option value="Method" />
       </list>
     </option>
   </component>
