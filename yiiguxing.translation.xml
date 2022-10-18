@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="update Silence" />
       <item value="Auth Algorithm" />
       <item value="ping Outstanding" />
       <item value="set Max Inflight" />
@@ -54,7 +55,6 @@
       <item value="局部的" />
       <item value="Party" />
       <item value="Particle" />
-      <item value="Partical" />
     </histories>
     <option name="languageScores">
       <map>
