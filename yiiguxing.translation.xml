@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="migrate Old Token" />
       <item value="update Silence" />
       <item value="Auth Algorithm" />
       <item value="ping Outstanding" />
@@ -54,7 +55,6 @@
       <item value="Partial" />
       <item value="局部的" />
       <item value="Party" />
-      <item value="Particle" />
     </histories>
     <option name="languageScores">
       <map>
