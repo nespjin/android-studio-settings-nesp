@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package: com.chintapp " />
+    <option name="mostRecentlyUsed" value="mqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="mqtt" />
         <option value="package:mine" />
         <option value="package: com.chintapp " />
         <option value="package: com.chintapp ok" />
@@ -22,7 +23,6 @@
         <option value="package:com.chintapp mqtt" />
         <option value="upload" />
         <option value="encodedPath" />
-        <option value="uploadLog" />
       </list>
     </option>
   </component>
