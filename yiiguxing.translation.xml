@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="ding.groupTerminalBoxEmpty.visible() bind" />
       <item value="qualifiers" />
       <item value="migrate Old Token" />
       <item value="update Silence" />
@@ -54,7 +55,6 @@
       <item value="地理" />
       <item value="地理坐标" />
       <item value="Partial" />
-      <item value="局部的" />
     </histories>
     <option name="languageScores">
       <map>
