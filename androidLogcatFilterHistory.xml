@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.chintapp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.chintapp " />
         <option value="mqtt" />
         <option value="package:mine" />
         <option value="package: com.chintapp " />
@@ -16,7 +17,6 @@
         <option value="FilePrinter" />
         <option value="SystemRemoteDataSource" />
         <option value="package:com.chintapp updateLog" />
-        <option value="package:com.chintapp " />
         <option value="package:com.chintapp MqttClientImpl" />
         <option value="package:com.chintapp com.app.support.mqtt.AppMqtt.messageArrived" />
         <option value="package:com.chintapp AppMqtt" />
