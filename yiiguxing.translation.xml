@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="implemented" />
+      <item value="The name of this log file that be wrote" />
       <item value="setup Theme" />
       <item value="ding.groupTerminalBoxEmpty.visible() bind" />
       <item value="qualifiers" />
@@ -53,8 +55,6 @@
       <item value="latitude" />
       <item value="方位" />
       <item value="坐标" />
-      <item value="地理" />
-      <item value="地理坐标" />
     </histories>
     <option name="languageScores">
       <map>
