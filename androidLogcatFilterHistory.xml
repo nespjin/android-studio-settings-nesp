@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.chintapp " />
+    <option name="mostRecentlyUsed" value="com.chint.main" />
     <option name="nonFavorites">
       <list>
+        <option value="com.chint.main" />
+        <option value="package:" />
         <option value="package:com.chintapp " />
         <option value="mqtt" />
         <option value="package:mine" />
         <option value="package: com.chintapp " />
         <option value="package: com.chintapp ok" />
-        <option value="package:" />
         <option value="mqtt check loop time" />
         <option value="level:error " />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="package:com.chintapp AppMqtt" />
         <option value="package:com.chintapp mqtt" />
         <option value="upload" />
-        <option value="encodedPath" />
       </list>
     </option>
   </component>
