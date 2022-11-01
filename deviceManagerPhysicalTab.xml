@@ -144,6 +144,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e33d691b0521" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2010J19SC" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
