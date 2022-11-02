@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="e33d691b0521" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2010J19SC" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:18888" />
+          </Key>
+        </key>
+        <name value="HUAWEI TET-AN00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="97617cb693cb9f68" />
           </Key>
         </key>
@@ -141,17 +163,6 @@
           </Key>
         </key>
         <name value="rockchip rk3566_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="e33d691b0521" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2010J19SC" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
