@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AutoS" />
     <option name="nonFavorites">
       <list>
+        <option value="AutoS" />
         <option value="mqtt" />
         <option value="level:error " />
         <option value="okhttp" />
@@ -22,7 +23,6 @@
         <option value="SystemRemoteDataSource" />
         <option value="package:com.chintapp updateLog" />
         <option value="package:com.chintapp MqttClientImpl" />
-        <option value="package:com.chintapp com.app.support.mqtt.AppMqtt.messageArrived" />
       </list>
     </option>
   </component>
