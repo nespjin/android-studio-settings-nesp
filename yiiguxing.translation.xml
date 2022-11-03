@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="层数" />
       <item value="implemented" />
       <item value="The name of this log file that be wrote" />
       <item value="setup Theme" />
@@ -54,7 +55,6 @@
       <item value="get Qr Code Status" />
       <item value="latitude" />
       <item value="方位" />
-      <item value="坐标" />
     </histories>
     <option name="languageScores">
       <map>
