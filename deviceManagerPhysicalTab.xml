@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R3CN90JPDAH" />
+          </Key>
+        </key>
+        <name value="samsung SM-W2021" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="e33d691b0521" />
           </Key>
         </key>
@@ -108,17 +119,6 @@
           </Key>
         </key>
         <name value="Xiaomi Redmi 8" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R3CN90JPDAH" />
-          </Key>
-        </key>
-        <name value="samsung SM-W2021" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
