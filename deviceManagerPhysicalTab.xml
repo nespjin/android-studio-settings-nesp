@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="263e4f08" />
+          </Key>
+        </key>
+        <name value="OPPO PFFM10" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R3CN90JPDAH" />
           </Key>
         </key>
@@ -132,17 +143,6 @@
         <name value="HUAWEI AUM-AL20" />
         <target value="Android 8.0" />
         <api value="androidversion:26:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="263e4f08" />
-          </Key>
-        </key>
-        <name value="OPPO PFFM10" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
