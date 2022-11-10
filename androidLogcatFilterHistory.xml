@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.chintapp " />
+    <option name="mostRecentlyUsed" value="package:com.chintapp mirro" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.chintapp mirro" />
+        <option value="package:com.chintapp Publishing message: topic: g" />
         <option value="package:com.chintapp " />
+        <option value="package:com.chintapp mirror" />
         <option value="package:com.chintapp login" />
         <option value="package:mine  AppMqttService" />
         <option value="package:mine  daemon" />
@@ -20,9 +23,6 @@
         <option value="okhttp" />
         <option value="com.chintapp" />
         <option value="com" />
-        <option value="com.chint.main" />
-        <option value="package:" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
