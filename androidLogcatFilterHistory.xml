@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  AppMqttService" />
+    <option name="mostRecentlyUsed" value="package:com.chintapp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.chintapp " />
+        <option value="package:com.chintapp login" />
         <option value="package:mine  AppMqttService" />
         <option value="package:mine  daemon" />
         <option value="package:mine  mqtt" />
@@ -20,9 +22,7 @@
         <option value="com" />
         <option value="com.chint.main" />
         <option value="package:" />
-        <option value="package:com.chintapp " />
         <option value="package:mine" />
-        <option value="package: com.chintapp " />
       </list>
     </option>
   </component>
