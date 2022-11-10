@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="a5b6de8432424d64" />
+          </Key>
+        </key>
+        <name value="rockchip rk3566_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="263e4f08" />
           </Key>
         </key>
@@ -66,17 +77,6 @@
         <name value="QUALCOMM msm8953 for arm64" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="a5b6de8432424d64" />
-          </Key>
-        </key>
-        <name value="rockchip rk3566_r" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -174,6 +174,28 @@
           </Key>
         </key>
         <name value="HUAWEI JLN-AL00" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.162:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk3566_r" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.8.163:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk3566_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
