@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="StatisticsElectricViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="StatisticsElectricViewModel" />
         <option value="package:mine subscribeNormalTopics" />
         <option value="package:com.chintapp " />
@@ -22,7 +23,6 @@
         <option value="fitViewHeight" />
         <option value="AutoS" />
         <option value="mqtt" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
