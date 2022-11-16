@@ -1,0 +1,14 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="kotlin" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+</application>

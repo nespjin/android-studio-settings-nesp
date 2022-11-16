@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="257" />
+    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogX" value="609" />
+    <option name="newTranslationDialogY" value="339" />
+    <histories>
+      <item value="Illegal State Exception" />
+      <item value="平分" />
+      <item value="start Scan Lighting Single Direction Animation" />
+      <item value="timely" />
+      <item value="层数" />
+      <item value="implemented" />
+      <item value="The name of this log file that be wrote" />
+      <item value="setup Theme" />
+      <item value="ding.groupTerminalBoxEmpty.visible() bind" />
+      <item value="qualifiers" />
+      <item value="migrate Old Token" />
+      <item value="update Silence" />
+      <item value="Auth Algorithm" />
+      <item value="ping Outstanding" />
+      <item value="set Max Inflight" />
+      <item value="home no connect network banner piece_1" />
+      <item value="summary" />
+      <item value="Mqtt Callback Extended" />
+      <item value="ARGUMENT KEY LOCATE VALUE" />
+      <item value="INVALID VERSION CODE" />
+      <item value="归档" />
+      <item value="打包" />
+      <item value="Updater" />
+      <item value="STATE IDLE" />
+      <item value="Update Bundle" />
+      <item value="Alarm" />
+      <item value="自动组网" />
+      <item value="update Silenc" />
+      <item value="静默" />
+      <item value="update House Id Cache If Necessary" />
+      <item value="get Breakers With Level Stream 2" />
+      <item value="iv role smail" />
+      <item value="get Energy Proportion" />
+      <item value="后缀" />
+      <item value="Subfix" />
+      <item value="tv tab power curve" />
+      <item value="昨天" />
+      <item value="电量" />
+      <item value="Electric Energy" />
+      <item value="Energy" />
+      <item value="功率" />
+      <item value="with Context" />
+      <item value="能耗" />
+      <item value="electrict&#10;" />
+      <item value="electrict" />
+      <item value="electricti" />
+      <item value="electrictio" />
+      <item value="electriction" />
+      <item value="fragment statistics electriction" />
+      <item value="user dialog fragment partial validate code login" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="8" />
+        <entry key="WELSH" value="1" />
+        <entry key="GREEK" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1664022392254" />
+  </component>
+  <component name="Settings">
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+</application>

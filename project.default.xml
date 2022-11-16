@@ -1,0 +1,29 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA" serialisationVersion="2">
+        <checkstyleVersion>10.3.2</checkstyleVersion>
+        <scanScope>JavaOnly</scanScope>
+        <copyLibs>true</copyLibs>
+        <option name="locations">
+          <list>
+            <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+            <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+          </list>
+        </option>
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="myGradleUserHome" value="D:/Users/Administrator/.gradle" />
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="D:/android/Sdk" />
+        <property name="last_opened_file_path" value="D:/Users/Administrator/.gradle" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

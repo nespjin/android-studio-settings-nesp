@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="StatisticsElectricViewModel" />
+        <option value="package:mine subscribeNormalTopics" />
+        <option value="package:com.chintapp " />
+        <option value="package:com.chintapp HostV" />
+        <option value="package:com.chintapp mirro" />
+        <option value="package:com.chintapp Publishing message: topic: g" />
+        <option value="package:com.chintapp mirror" />
+        <option value="package:com.chintapp login" />
+        <option value="package:mine  AppMqttService" />
+        <option value="package:mine  daemon" />
+        <option value="package:mine  mqtt" />
+        <option value="package:mine  mac" />
+        <option value="package:mine  AppMqttConfig" />
+        <option value="package:mine  level:error " />
+        <option value="package:mine level:error " />
+        <option value="onMeasure" />
+        <option value="fitViewHeight" />
+        <option value="AutoS" />
+        <option value="mqtt" />
+      </list>
+    </option>
+  </component>
+</application>
