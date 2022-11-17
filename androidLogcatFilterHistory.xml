@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WebViewHelper" />
+    <option name="mostRecentlyUsed" value="RKUpda" />
     <option name="nonFavorites">
       <list>
+        <option value="RKUpda" />
         <option value="package:mine WebViewHelper" />
         <option value="package:mine " />
         <option value="StatisticsElectricViewModel" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:error " />
         <option value="onMeasure" />
         <option value="fitViewHeight" />
-        <option value="AutoS" />
       </list>
     </option>
   </component>
