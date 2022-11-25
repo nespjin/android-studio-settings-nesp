@@ -5,22 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:5555" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="97617cb693cb9f68" />
           </Key>
         </key>
         <name value="rockchip EQK3566_EDP" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:5555" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
