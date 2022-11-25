@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JankStatsSample" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="JankStatsSample" />
         <option value="ok" />
         <option value="RKUpda" />
@@ -22,7 +23,6 @@
         <option value="package:mine  mac" />
         <option value="package:mine  AppMqttConfig" />
         <option value="package:mine  level:error " />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
