@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="609" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="pixels" />
       <item value="Illegal State Exception" />
       <item value="平分" />
       <item value="start Scan Lighting Single Direction Animation" />
@@ -54,7 +55,6 @@
       <item value="electrictio" />
       <item value="electriction" />
       <item value="fragment statistics electriction" />
-      <item value="user dialog fragment partial validate code login" />
     </histories>
     <option name="languageScores">
       <map>
