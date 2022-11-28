@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine  BreakerListViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  BreakerListViewModel" />
+        <option value="package:mine " />
+        <option value="ok" />
         <option value="level:error " />
         <option value="JankStatsSample" />
-        <option value="ok" />
         <option value="RKUpda" />
         <option value="package:mine WebViewHelper" />
-        <option value="package:mine " />
         <option value="StatisticsElectricViewModel" />
         <option value="package:mine subscribeNormalTopics" />
         <option value="package:com.chintapp " />
@@ -22,7 +23,6 @@
         <option value="package:mine  mqtt" />
         <option value="package:mine  mac" />
         <option value="package:mine  AppMqttConfig" />
-        <option value="package:mine  level:error " />
       </list>
     </option>
   </component>
