@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="ok" />
         <option value="package:mine  http://wpanel-iot-test.chint-lv.com:8001/app/weather/getAllWeather?" />
         <option value="package:mine  " />
         <option value="package:mine  ok" />
         <option value="package:mine  BreakerListViewModel" />
         <option value="package:mine " />
-        <option value="ok" />
         <option value="level:error " />
         <option value="JankStatsSample" />
         <option value="RKUpda" />
