@@ -82,13 +82,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="descriptor" />
       <item value="开始连接" />
       <item value="on Le Scan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
