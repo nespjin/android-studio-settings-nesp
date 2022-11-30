@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="ok" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="ok" />
         <option value="package:mine  http://wpanel-iot-test.chint-lv.com:8001/app/weather/getAllWeather?" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:com.chintapp mirror" />
         <option value="package:com.chintapp login" />
         <option value="package:mine  AppMqttService" />
-        <option value="package:mine  daemon" />
       </list>
     </option>
   </component>
