@@ -82,14 +82,17 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="维护" />
+      <item value="维" />
+      <item value="运维" />
       <item value="descriptor" />
       <item value="开始连接" />
       <item value="on Le Scan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="5" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
