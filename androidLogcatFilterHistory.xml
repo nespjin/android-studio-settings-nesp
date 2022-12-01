@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="App" />
+        <option value="package:mine App" />
         <option value="package:mine" />
         <option value="GatewayDetailFragment" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="package:com.chintapp HostV" />
         <option value="package:com.chintapp mirro" />
         <option value="package:com.chintapp Publishing message: topic: g" />
-        <option value="package:com.chintapp mirror" />
       </list>
     </option>
   </component>
