@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="App" />
     <option name="nonFavorites">
       <list>
+        <option value="App" />
         <option value="package:mine" />
         <option value="GatewayDetailFragment" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="package:com.chintapp mirro" />
         <option value="package:com.chintapp Publishing message: topic: g" />
         <option value="package:com.chintapp mirror" />
-        <option value="package:com.chintapp login" />
       </list>
     </option>
   </component>
