@@ -82,6 +82,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="漏电诊断" />
+      <item value="过压诊断" />
+      <item value="diagnosis" />
+      <item value="过载诊断" />
       <item value="维护" />
       <item value="维" />
       <item value="运维" />
@@ -91,8 +95,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
