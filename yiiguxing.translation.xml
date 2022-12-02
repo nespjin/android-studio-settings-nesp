@@ -82,6 +82,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="消极的" />
       <item value="Diagnostic" />
       <item value="Metrics" />
       <item value="get Display Metrics" />
@@ -103,7 +104,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="17" />
         <entry key="FRENCH" value="1" />
       </map>
