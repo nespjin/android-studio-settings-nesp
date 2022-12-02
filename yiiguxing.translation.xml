@@ -82,6 +82,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="设置是否在主线程接收数据" />
       <item value="消极的" />
       <item value="Diagnostic" />
       <item value="Metrics" />
@@ -104,8 +105,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
