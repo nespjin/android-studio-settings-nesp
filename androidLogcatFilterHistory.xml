@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreate" />
         <option value="topic" />
         <option value="App" />
         <option value="package:mine App" />
@@ -22,7 +23,6 @@
         <option value="package:mine subscribeNormalTopics" />
         <option value="package:com.chintapp " />
         <option value="package:com.chintapp HostV" />
-        <option value="package:com.chintapp mirro" />
       </list>
     </option>
   </component>
