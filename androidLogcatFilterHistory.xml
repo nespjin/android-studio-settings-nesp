@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onCreate" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="SerialDriver" />
         <option value="onCreate" />
         <option value="topic" />
         <option value="App" />
@@ -22,7 +23,6 @@
         <option value="StatisticsElectricViewModel" />
         <option value="package:mine subscribeNormalTopics" />
         <option value="package:com.chintapp " />
-        <option value="package:com.chintapp HostV" />
       </list>
     </option>
   </component>
