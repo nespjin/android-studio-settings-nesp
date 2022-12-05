@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SerialDriver" />
+    <option name="mostRecentlyUsed" value="Driver" />
     <option name="nonFavorites">
       <list>
-        <option value="SerialDriver" />
         <option value="Driver" />
+        <option value="SerialDriver" />
         <option value="Drive" />
         <option value="ok" />
         <option value="onCreate" />
