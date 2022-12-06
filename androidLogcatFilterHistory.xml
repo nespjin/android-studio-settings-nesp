@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="audit" />
         <option value="package:mine" />
         <option value="onCrea" />
         <option value="onCreate" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="JankStatsSample" />
         <option value="RKUpda" />
-        <option value="package:mine WebViewHelper" />
       </list>
     </option>
   </component>

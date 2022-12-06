@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="notes" type="AUTO_DETECTED" />
       <mapping pattern="DependencyVersionPlugin" type="AUTO_DETECTED" />
+      <mapping pattern="init" type="AUTO_DETECTED" />
       <mapping pattern="index" type="AUTO_DETECTED" />
       <mapping pattern="last_update_apk_version_code" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
