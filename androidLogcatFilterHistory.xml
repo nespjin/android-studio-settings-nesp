@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="serial" />
         <option value="audit" />
         <option value="package:mine" />
         <option value="onCrea" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="level:error " />
         <option value="JankStatsSample" />
-        <option value="RKUpda" />
       </list>
     </option>
   </component>
