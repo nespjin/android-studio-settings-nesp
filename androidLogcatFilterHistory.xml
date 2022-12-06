@@ -3,11 +3,11 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreate" />
         <option value="Driver" />
         <option value="SerialDriver" />
         <option value="Drive" />
         <option value="ok" />
-        <option value="onCreate" />
         <option value="topic" />
         <option value="App" />
         <option value="package:mine App" />
