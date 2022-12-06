@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="onCrea" />
     <option name="nonFavorites">
       <list>
+        <option value="onCrea" />
         <option value="onCreate" />
         <option value="Driver" />
         <option value="SerialDriver" />
@@ -22,7 +23,6 @@
         <option value="JankStatsSample" />
         <option value="RKUpda" />
         <option value="package:mine WebViewHelper" />
-        <option value="StatisticsElectricViewModel" />
       </list>
     </option>
   </component>
