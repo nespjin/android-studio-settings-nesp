@@ -3,12 +3,13 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Driver" />
+        <option value="Seri" />
         <option value="onCreate" />
         <option value="serial" />
         <option value="audit" />
         <option value="package:mine" />
         <option value="onCrea" />
-        <option value="Driver" />
         <option value="SerialDriver" />
         <option value="Drive" />
         <option value="ok" />
@@ -22,7 +23,6 @@
         <option value="package:mine  BreakerListViewModel" />
         <option value="package:mine " />
         <option value="level:error " />
-        <option value="JankStatsSample" />
       </list>
     </option>
   </component>
