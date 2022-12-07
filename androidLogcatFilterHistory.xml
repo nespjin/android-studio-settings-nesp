@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreate" />
+        <option value="android_serial_port" />
+        <option value="android" />
+        <option value="seria" />
         <option value="Driver" />
         <option value="Seri" />
-        <option value="onCreate" />
         <option value="serial" />
         <option value="audit" />
         <option value="package:mine" />
@@ -20,9 +23,6 @@
         <option value="package:mine  http://wpanel-iot-test.chint-lv.com:8001/app/weather/getAllWeather?" />
         <option value="package:mine  " />
         <option value="package:mine  ok" />
-        <option value="package:mine  BreakerListViewModel" />
-        <option value="package:mine " />
-        <option value="level:error " />
       </list>
     </option>
   </component>
