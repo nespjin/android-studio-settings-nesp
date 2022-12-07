@@ -3,11 +3,11 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreate" />
         <option value="serial" />
         <option value="audit" />
         <option value="package:mine" />
         <option value="onCrea" />
-        <option value="onCreate" />
         <option value="Driver" />
         <option value="SerialDriver" />
         <option value="Drive" />
