@@ -75,13 +75,18 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1669777078605" />
+    <option name="lastTrimTime" value="1670986140322" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Default View Mode方式扫码接口，检测扫码需要的相机权限和存储权限，若有权限则跳转到由Scan Kit定义的扫码界面，若没有权限直接返回。" />
+      <item value="相机初始化异常" />
+      <item value="没有文件目录读取权限" />
+      <item value="应用没有相机权限" />
+      <item value="成功" />
       <item value="塑壳模拟开关" />
       <item value="加密" />
       <item value="Required" />
@@ -109,8 +114,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="26" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
