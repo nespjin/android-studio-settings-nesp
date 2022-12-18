@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="initialize View" />
+      <item value="虚拟体验" />
+      <item value="Behavior Collect Manager" />
+      <item value="rect" />
+      <item value="TYPE MATERNAL AND INFANT" />
+      <item value="ll Full Gallbladder Heat Select" />
+      <item value="SH Bidirectional Seekbar" />
+      <item value=":app:compile Release Renderscript" />
+      <item value="&gt; Task :app:compileReleaseAidl NO-SOURCE &gt; Task :zxing-lib:packageReleaseRenderscript NO-SOURCE &gt; Task :app:checkReleaseManifest UP-TO-DATE &gt; Task :app:compileReleaseRenderscript NO-SOURCE &gt; Task :app:generateReleaseBuildConfig UP-TO-DATE &gt; Task :zxing-lib:checkReleaseManifest UP-TO-DATE &gt; Task :zxing-lib:compileReleaseRenderscript NO-SOURCE &gt; Task :zxing-lib:generateReleaseBuildConfig UP-TO-DATE &gt; Task :zxing-lib:generateReleaseResValues UP-TO-DATE &gt; Task :zxing-lib:generateReleaseResources UP-TO-DATE &gt; Task :zxing-lib:packageReleaseResources UP-TO-DATE &gt; Task :zxing-lib:parseReleaseLibraryResources UP-TO-DATE &gt; Task :zxing-lib:processReleaseManifest UP-TO-DATE &gt; Task :zxing-lib:generateReleaseRFile UP-TO-DATE &gt; Task :zxing-lib:javaPreCompileRelease UP-TO-DATE &gt; Task :zxing-lib:compileReleaseJavaWithJavac UP-TO-DATE &gt; Task :zxing-lib:bundleLibCompileRelease UP-TO-DATE &gt; Task :app:javaPreCompileRelease UP-TO-DATE &gt; Task :app:mainApkListPersistenceRelease UP-TO-DATE &gt; Task :app:generateReleaseResValues UP-TO-DATE &gt; Task :app:generateReleaseResources UP-TO-DATE &gt; Task :app:mergeReleaseResources UP-TO-DATE &gt; Task :app:createReleaseCompatibleScreenManifests UP-TO-DATE &gt; Task :app:processReleaseManifest UP-TO-DATE &gt; Task :app:processReleaseResources UP-TO-DATE" />
+      <item value="Medical Activity" />
+      <item value="AUGUST" />
+      <item value="NOVEMBER" />
+      <item value="JUNE" />
+      <item value="热熔洗" />
+      <item value="AI联动" />
+      <item value="智能体感" />
+      <item value="heat Melt To Wash" />
+      <item value="sw_摆头" />
+      <item value="preform action &amp; resolve the conflicts" />
+      <item value="perform Operation Info" />
+      <item value="部分地" />
+      <item value="is Equals Partily" />
+      <item value="operate Snap Shot" />
+      <item value="ic lampblack hot melt to wash" />
+      <item value="on Timed Time Changed" />
+      <item value="烘干" />
+      <item value="ic washer mode select single baked on" />
+      <item value="ic washer mode select feather on" />
+      <item value="除菌洗" />
+      <item value="一键智洗" />
+      <item value="衬衣衫" />
+      <item value="快洗30" />
+      <item value="筒清洁" />
+      <item value="内衣洗" />
+      <item value="空气洗" />
+      <item value="暖衣烘" />
+      <item value="洗烘60" />
+      <item value="单烘干" />
+      <item value="节能洗" />
+      <item value="漂洗+脱水" />
+      <item value="单脱水" />
+      <item value="羊毛洗" />
+      <item value="运动衣" />
+      <item value="快洗42" />
+      <item value="极速15" />
+      <item value="标准洗" />
+      <item value="混合洗" />
+      <item value="大件洗" />
+      <item value="童衣洗" />
+      <item value="羽绒服" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="AFRIKAANS" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1654599210257" />
+  </component>
+</application>

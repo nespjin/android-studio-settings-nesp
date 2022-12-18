@@ -1,0 +1,76 @@
+<templateSet group="Android">
+  <template name="starterk" value="@JvmStatic&#10;fun start(context: android.content.Context) {&#10;    val starter = Intent(context, $ACTIVITY$::class.java)&#10;    starter.putExtra($CURSOR$)&#10;    context.startActivity(starter)&#10;}" description="Creates a static start(...) helper method to start an Activity" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTIVITY" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="acreq" value="private const val ACTIVITY_REQ_CODE_$CONTENT$ = $CODE$" description="Activity request code" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="0" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="starterreqK" value="@JvmStatic&#10;fun start(activity: android.app.Activity, requestCode: Int) {&#10;    val starter = Intent(activity, $ACTIVITY$::class.java)&#10;    starter.putExtra($CURSOR$)&#10;    activity.startActivityForResult(starter, requestCode)&#10;}" description="Creates a static start(...) helper method to start an Activity" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTIVITY" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="starterreq" value="public static void start(android.app.Activity activity,int requestCode) {&#10;    android.content.Intent starter = new Intent(activity, $ACTIVITY$.class);&#10;    starter.putExtra($CURSOR$);&#10;    activity.startActivityForResult(starter, requestCode);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTIVITY" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="intentKey" value="private static final String INTENT_KEY_$CONTENT$ = &quot;$CLSS_NAME$.INTENT_KEY_$CONTENT$&quot;;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLSS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tagK" value="private const val TAG = &quot;$CLASS$&quot;" description="Create tag filed" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="singlep" value="&#10;@Volatile&#10;private var instance: $CLASS_NAME$? = null&#10;&#10;@JvmStatic&#10;fun getInstance($PARAMS$): $CLASS_NAME$ =&#10;        instance ?: synchronized(this) {&#10;            instance ?: $CLASS_NAME$($PARAM_CONTENT$).also { instance = it }&#10;        }" description="Create a singleton mode with params" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM_CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="single" value="@JvmStatic&#10;val instance: $CLASS_NAME$ by lazy(mode = LazyThreadSafetyMode.SYNCHRONIZED) {&#10;    $CLASS_NAME$()&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="argumentKey" value="private static final String ARGUMENT_KEY_$CONTENT$ = &quot;$CLSS_NAME$.ARGUMENT_KEY_$CONTENT$&quot;;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLSS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="intentExtra" value="private static final String EXTRA_$CONTENT$ = &quot;$PKG_NAME$.$CLASS_NAME$.extra.$CONTENT$&quot;;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PKG_NAME" expression="currentPackage()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="regularExpression(lowercaseAndDash(className()), &quot;-&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="noInstance" value="private $class$() {&#10;    //no instance&#10;}" description="private empty constructor to prohibit instance creation" toReformat="true" toShortenFQNames="true">
+    <variable name="class" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

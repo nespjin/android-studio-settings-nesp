@@ -1,0 +1,37 @@
+<templateSet group="Kotlin">
+  <template name="header" value="/**&#10; * Team: NESP Technology&#10; * @author &lt;a href=&quot;mailto:1756404649@qq.com&quot;&gt;JinZhaolu Email:1756404649@qq.com&lt;/a&gt;&#10; * @version 1.0&#10; * Time: Created $DATE$ $TIME$&#10; * Description:&#10; **/" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="cls" value="$CLS$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLS" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="fun init" value="fun initialize($PARMS$) {&#10;    &#10;}" description="Create initialize function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="argumentKey" value="private const val ARGUMENT_KEY_$CONTENT$ = &quot;$CLSS_NAME$.ARGUMENT_KEY_$CONTENT$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLSS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="property" value="private var $PROPERTY_NAME$: $PROPERTY_TYPE$? = null&#10;&#10;fun $PROPERTY_NAME$Property(): $PROPERTY_TYPE$ {&#10;    if ($PROPERTY_NAME$ == null) {&#10;        $PROPERTY_NAME$ = $PROPERTY_TYPE$()&#10;    }&#10;    return $PROPERTY_NAME$!!&#10;}&#10;&#10;fun $PROPERTY_NAME$(): $VALUE_TYPE$? {&#10;    return $PROPERTY_NAME$Property().get()&#10;}&#10;&#10;fun $PROPERTY_NAME$(value:$VALUE_TYPE$) {&#10;    $PROPERTY_NAME$Property().set(value)&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPERTY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPERTY_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

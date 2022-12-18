@@ -1,0 +1,45 @@
+<templateSet group="Dart">
+  <template name="logv" value="Log.v(_TAG,'$METHOD_NAME$: $CONTENT$');" description="print verbose log" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="logd" value="Log.d(_TAG,'$METHOD_NAME$: $CONTENT$');" description="print debug log" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="logw" value="Log.w(_TAG,'$METHOD_NAME$: $CONTENT$');" description="print warn log" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="logi" value="Log.i(_TAG,'$METHOD_NAME$: $CONTENT$');" description="print info log" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="loge" value="Log.e(_TAG,'$METHOD_NAME$: $CONTENT$');" description="print error log" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="TAG" value="static const _TAG = '$CLASS_NAME$';" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="DART_STATEMENT" value="false" />
+      <option name="DART_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,28 @@
+<templateSet group="Java">
+  <template name="dsingleton" value="private volatile static $class$ singleton;&#10;&#10;public static $class$ getSingleton() {&#10;    if (singleton == null) {&#10;        synchronized ($class$.class) {&#10;            if (singleton == null) {&#10;                singleton = new $class$();&#10;            }&#10;        }&#10;    }&#10;    return singleton;&#10;}&#10;&#10;private $class$() {&#10;}" description="Singleton for double check" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cls" value="$class$" description="Current class name" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="TAG" value="private static final String TAG = &quot;$class$&quot;;" description="create tag" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="property" value="private $PROPERTY_TYPE$ $PROPERTY_NAME$;&#10;&#10;public $PROPERTY_TYPE$ $PROPERTY_NAME$Property() {&#10;    if ($PROPERTY_NAME$ == null) {&#10;        $PROPERTY_NAME$ = new $PROPERTY_TYPE$();&#10;    }&#10;    return $PROPERTY_NAME$;&#10;}&#10;&#10;public $VALUE_TYPE$ $PROPERTY_NAME$() {&#10;    return $PROPERTY_NAME$Property().get();&#10;}&#10;&#10;public void $PROPERTY_NAME$($VALUE_TYPE$ value) {&#10;    $PROPERTY_NAME$Property().set(value);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPERTY_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROPERTY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
