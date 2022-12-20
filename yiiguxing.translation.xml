@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Remove some unnecessary files." />
+      <item value="不必要的" />
       <item value="Stores all modules that registered" />
       <item value="put If Absent" />
       <item value="Defines the Module class, that can be used to implements yours own business modules." />
@@ -79,8 +81,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
