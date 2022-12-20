@@ -71,7 +71,15 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Defines the Module class, that can be used to implements yours own business modules." />
       <item value="restorable Push" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
   </component>
 </application>
