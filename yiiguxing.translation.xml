@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="signaled" />
+      <item value="reassemble" />
       <item value="当Sp Util不再使用的时候调用" />
       <item value="Called when SpUtil never used ever" />
       <item value="Called when SpUtil never used." />
@@ -86,8 +88,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
