@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="此小部件用于显示有关当前登录用户的消息" />
+      <item value="This widget is used to display a message about current login-user" />
       <item value="signaled" />
       <item value="reassemble" />
       <item value="当Sp Util不再使用的时候调用" />
@@ -88,8 +90,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
