@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ensures initializer called before MainScreen built" />
       <item value="此小部件用于显示有关当前登录用户的消息" />
       <item value="This widget is used to display a message about current login-user" />
       <item value="signaled" />
@@ -90,8 +91,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
