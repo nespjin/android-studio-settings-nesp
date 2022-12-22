@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="移出常用" />
       <item value="is In Material App Scope" />
       <item value="shrink Wrap" />
       <item value="Creates box constraints that forbid sizes larger than the given size." />
@@ -101,7 +102,7 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="26" />
+        <entry key="CHINESE" value="28" />
         <entry key="ENGLISH" value="28" />
       </map>
     </option>
