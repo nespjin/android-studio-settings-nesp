@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="RKUpdateService" />
     <option name="nonFavorites">
       <list>
+        <option value="RKUpdateService" />
+        <option value="Update" />
         <option value="android_serial_port" />
         <option value="package:mine " />
         <option value="onCreate" />
@@ -21,8 +23,6 @@
         <option value="App" />
         <option value="package:mine App" />
         <option value="GatewayDetailFragment" />
-        <option value="package:mine  http://wpanel-iot-test.chint-lv.com:8001/app/weather/getAllWeather?" />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
