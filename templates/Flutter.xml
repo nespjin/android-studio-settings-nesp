@@ -1,0 +1,14 @@
+<templateSet group="Flutter">
+  <template name="mus" value="class $NAME$UiState extends UiState {&#10;  const $NAME$UiState();&#10;}&#10;  &#10;class _$NAME$UiStateLoading extends $NAME$UiState {}&#10;  &#10;class _$NAME$UiStateError extends $NAME$UiState {}&#10;  &#10;class _$NAME$UiStateSuccess extends $NAME$UiState {&#10;}" description="Create multiple UiState classes" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="us" value="class $NAME$UiState extends UiState {&#10;  const $NAME$UiState();&#10;}" description="Create a single UiState class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

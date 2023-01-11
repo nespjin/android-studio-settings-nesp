@@ -42,4 +42,56 @@
       <option name="DART_TOPLEVEL" value="false" />
     </context>
   </template>
+  <template name="responseBody" value="class $NAME$ResponseBody extends BaseResponseBody&lt;$DATA$&gt; {&#10;  const $NAME$ResponseBody({String? code, String? message, $DATA$? data})&#10;      : super(code: code, message: message, data: data);&#10;&#10;  factory $NAME$ResponseBody.fromJson(Map&lt;String, dynamic&gt; json) {&#10;    return $NAME$ResponseBody(&#10;      code: json['code'],&#10;      message: json['message'],&#10;      data: json['data'],&#10;    );&#10;  }&#10;&#10;  Map&lt;String, dynamic&gt; toJson() =&gt;&#10;      {&#10;        'code': code,&#10;        'message': message,&#10;        'data': data,&#10;      };&#10;  } &#10;} " description="Create Response Body" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="fromJson" value="factory $NAME$.fromJson(Map&lt;String, dynamic&gt; json) {       &#10;    return $NAME$(                                           &#10;      $KEY$: json['$VALUE$'],                                                &#10;    );                                                                   &#10;}" description="Create from json function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="toJson" value="Map&lt;String, dynamic&gt; toJson() =&gt; {&#10;    '$KEY$': $VALUE$&#10;   };&#10;}" description="Create to json function" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="fromMap" value="factory $NAME$.fromMap(Map&lt;String, dynamic&gt; map) {       &#10;    return $NAME$(                                           &#10;      $KEY$: map['$VALUE$'],                                                &#10;    );                                                                   &#10;}" description="Create from map function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="toMap" value="Map&lt;String, dynamic&gt; toMap() =&gt; {&#10;    '$KEY$': $VALUE$&#10;   };&#10;}" description="Create to map function" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="extension" value="extension $NAME$Extension on $PARENT$ {&#10;  $BODY$      &#10;}                                          " description="Create extension class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="sharedClass" value="class $CLASS_NAME$ {                                               &#10;  $CLASS_NAME$._();                                                &#10;                                                         &#10;  static $CLASS_NAME$? _instance;                                  &#10;  static $CLASS_NAME$ get shared =&gt; _instance ??= $CLASS_NAME$._();          &#10;                                                         &#10;  $BODY$                                                     &#10;}                                                        " description="Create a shared class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
