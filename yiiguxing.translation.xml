@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="obscure Text" />
       <item value="is Restricted" />
       <item value="is Permanently Denied" />
       <item value="tier Num" />
@@ -107,8 +108,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
