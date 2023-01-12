@@ -94,4 +94,10 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="singleton" value="const $CLASS_NAME$._();&#10;static $CLASS_NAME$? _instance;&#10;static  get shared =&gt; _instance ??= const $CLASS_NAME$._();" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
