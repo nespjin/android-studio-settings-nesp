@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="shrink Wrap" />
       <item value="obscure Text" />
       <item value="is Restricted" />
       <item value="is Permanently Denied" />
@@ -79,7 +80,6 @@
       <item value="seed Value" />
       <item value="移出常用" />
       <item value="is In Material App Scope" />
-      <item value="shrink Wrap" />
       <item value="Creates box constraints that forbid sizes larger than the given size." />
       <item value="Creates box constraints that expand to fill another box constraints. If width or height is given, the constraints will require exactly the given value in the given dimension." />
       <item value="text Width Basis" />
@@ -108,8 +108,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
