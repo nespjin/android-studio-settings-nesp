@@ -64,13 +64,14 @@
     <option name="lastTrimTime" value="1654599210257" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672904468855" />
+    <option name="lastTrimTime" value="1673490016330" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Result" />
       <item value="seed Value" />
       <item value="移出常用" />
       <item value="is In Material App Scope" />
@@ -103,8 +104,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
