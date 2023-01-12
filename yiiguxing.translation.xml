@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Grand All Permissions" />
+      <item value="is Grand Permission" />
       <item value="runes" />
       <item value="truncate After Composition Ends" />
       <item value="shrink Wrap" />
@@ -110,8 +112,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
