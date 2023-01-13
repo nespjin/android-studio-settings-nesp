@@ -34,7 +34,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="TAG" value="static const _TAG = '$CLASS_NAME$';" description="" toReformat="false" toShortenFQNames="true">
+  <template name="tag" value="static const _tag = '$CLASS_NAME$';" description="" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
@@ -98,6 +98,12 @@
     <variable name="CLASS_NAME" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="tagFile" value="static const _tag = '$FILE_NAME$';" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
 </templateSet>
