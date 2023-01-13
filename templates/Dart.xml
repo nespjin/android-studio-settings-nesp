@@ -106,4 +106,12 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="main" value="$RETURN$ main($PARARM_TYPE$ $PARAM$) {&#10;}" description="Create main function" toReformat="false" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="void" alwaysStopAt="true" />
+    <variable name="PARARM_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
