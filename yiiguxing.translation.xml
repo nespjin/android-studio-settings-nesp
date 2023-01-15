@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="drain" />
       <item value="当不存在总控时不能切换到控制Tab和统计Tab只弹框提示" />
       <item value="不存在网关时，不显示底部导航" />
       <item value="is Grand All Permissions" />
@@ -114,8 +115,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
