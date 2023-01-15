@@ -71,6 +71,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The scan result was determined, stop scan task." />
+      <item value="The scan result has value, stop scan task." />
+      <item value="决定" />
+      <item value="The scan result is confirmed, stop scan task" />
       <item value="code Units" />
       <item value="units" />
       <item value="is Not All Required Permissions Granted" />
@@ -118,8 +122,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
