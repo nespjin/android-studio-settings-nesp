@@ -114,4 +114,11 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="dp" value="debugPrint('$_tag: $METHOD_NAME$: $MESSAGE$');" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
