@@ -100,7 +100,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="tagFile" value="static const _tag = '$FILE_NAME$';" toReformat="false" toShortenFQNames="true">
+  <template name="tagFile" value="static const _tag = '$FILE_NAME$';" description="" toReformat="false" toShortenFQNames="true">
     <variable name="FILE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_TOPLEVEL" value="true" />
