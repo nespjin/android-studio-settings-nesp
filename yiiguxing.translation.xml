@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Post-frame callbacks cannot be unregistered. They are called exactly once" />
       <item value="shrink" />
       <item value="create Unique Id" />
       <item value="The scan result was determined, stop scan task." />
@@ -124,8 +125,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
