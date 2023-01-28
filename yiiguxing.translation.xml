@@ -64,13 +64,14 @@
     <option name="lastTrimTime" value="1654599210257" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673490016330" />
+    <option name="lastTrimTime" value="1674888306272" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="shrink" />
       <item value="create Unique Id" />
       <item value="The scan result was determined, stop scan task." />
       <item value="The scan result has value, stop scan task." />
@@ -123,8 +124,8 @@
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="3" />
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
