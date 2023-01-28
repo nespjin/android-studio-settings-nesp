@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="create Unique Id" />
       <item value="The scan result was determined, stop scan task." />
       <item value="The scan result has value, stop scan task." />
       <item value="决定" />
