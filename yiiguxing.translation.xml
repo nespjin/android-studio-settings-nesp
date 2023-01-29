@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="row Number" />
       <item value="sideway" />
       <item value="sideways Length" />
       <item value="侧边" />
@@ -120,13 +121,12 @@
       <item value="Called before the application built" />
       <item value="配置" />
       <item value="ensures initializer called before MainScreen built" />
-      <item value="此小部件用于显示有关当前登录用户的消息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
