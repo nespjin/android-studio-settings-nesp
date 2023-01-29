@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="flip Vertical" />
+      <item value="is Uniform" />
       <item value="row Number" />
       <item value="sideway" />
       <item value="sideways Length" />
@@ -119,14 +121,12 @@
       <item value="Diagnosticable" />
       <item value="from Seed" />
       <item value="Called before the application built" />
-      <item value="配置" />
-      <item value="ensures initializer called before MainScreen built" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
