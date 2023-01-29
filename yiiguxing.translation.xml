@@ -71,6 +71,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="sideway" />
+      <item value="sideways Length" />
+      <item value="侧边" />
+      <item value="slide Side Length" />
+      <item value="Isosceles" />
+      <item value="等腰" />
       <item value="side Length" />
       <item value="isosceles" />
       <item value="等腰三角形" />
@@ -115,18 +121,12 @@
       <item value="配置" />
       <item value="ensures initializer called before MainScreen built" />
       <item value="此小部件用于显示有关当前登录用户的消息" />
-      <item value="This widget is used to display a message about current login-user" />
-      <item value="signaled" />
-      <item value="reassemble" />
-      <item value="当Sp Util不再使用的时候调用" />
-      <item value="Called when SpUtil never used ever" />
-      <item value="Called when SpUtil never used." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
