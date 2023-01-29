@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Lack Master Breaker" />
       <item value="flip Vertical" />
       <item value="is Uniform" />
       <item value="row Number" />
@@ -120,13 +121,12 @@
       <item value="semantics Label" />
       <item value="Diagnosticable" />
       <item value="from Seed" />
-      <item value="Called before the application built" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
