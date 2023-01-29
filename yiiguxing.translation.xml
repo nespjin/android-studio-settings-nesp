@@ -71,6 +71,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The rectangle is the set of points with representable coordinates greater than or equal to lefttop, and with distance to lefttop no greater than widthheight (to the limit of the precision of the coordinates)." />
+      <item value="This rectangle uses a left-handed Cartesian coordinate system, with x directed to the right and y directed down, as per the convention in 2D computer graphics." />
+      <item value="The vertical direction is reversed, and the triangle must be horizontal at the base" />
+      <item value="垂直方向反转，三角形必须底边水平" />
       <item value="Equilateral triangle which bottom edge is horizontal, and the vertices are on top" />
       <item value="底边水平, 顶点在上的" />
       <item value="is Lack Master Breaker" />
@@ -117,16 +121,12 @@
       <item value="seed Value" />
       <item value="移出常用" />
       <item value="is In Material App Scope" />
-      <item value="Creates box constraints that forbid sizes larger than the given size." />
-      <item value="Creates box constraints that expand to fill another box constraints. If width or height is given, the constraints will require exactly the given value in the given dimension." />
-      <item value="text Width Basis" />
-      <item value="semantics Label" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
