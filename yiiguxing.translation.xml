@@ -71,6 +71,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Equilateral triangle which bottom edge is horizontal, and the vertices are on top" />
+      <item value="底边水平, 顶点在上的" />
       <item value="is Lack Master Breaker" />
       <item value="flip Vertical" />
       <item value="is Uniform" />
@@ -119,14 +121,12 @@
       <item value="Creates box constraints that expand to fill another box constraints. If width or height is given, the constraints will require exactly the given value in the given dimension." />
       <item value="text Width Basis" />
       <item value="semantics Label" />
-      <item value="Diagnosticable" />
-      <item value="from Seed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
