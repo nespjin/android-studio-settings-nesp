@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The number of clockwise quarter turns the child should be rotated." />
       <item value="intersects" />
       <item value="Converts a stream to future" />
       <item value="Listen event once, will auto-remove listener after event is received." />
@@ -120,13 +121,12 @@
       <item value="initializer" />
       <item value="Sliver Safe Area" />
       <item value="Remove some unnecessary files." />
-      <item value="不必要的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="58" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
