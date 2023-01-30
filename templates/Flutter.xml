@@ -11,7 +11,7 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="cvm" value="&#10;class _$NAME$ViewModel extends ChangeNotifierViewModel {&#10;  $UiState$ _uiState =&#10;      const $InitUiState$();&#10;&#10;  $UiState$ get uiState =&gt; _uiState;&#10; &#10;  void _updateUiState($UiState$ uiState) {&#10;    _uiState = uiState;&#10;    notifyListeners();&#10;  }&#10;}" description="Create a ChangeNotifier ViewModel" toReformat="false" toShortenFQNames="true">
+  <template name="cvm" value="&#10;class $NAME$ViewModel extends ChangeNotifierViewModel {&#10;  $UiState$ _uiState = const $InitUiState$();&#10;&#10;  $UiState$ get uiState =&gt; _uiState;&#10; &#10;  void _updateUiState($UiState$ uiState) {&#10;    _uiState = uiState;&#10;    notifyListeners();&#10;  }&#10;}" description="Create a ChangeNotifier ViewModel" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="UiState" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="InitUiState" expression="" defaultValue="" alwaysStopAt="true" />
