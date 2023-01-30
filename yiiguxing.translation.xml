@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="page Num" />
       <item value="proccessed Fault Count" />
       <item value="fault Count" />
       <item value="fault Number" />
@@ -120,13 +121,12 @@
       <item value="is Restricted" />
       <item value="is Permanently Denied" />
       <item value="tier Num" />
-      <item value="Result" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
