@@ -71,6 +71,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="proccessed Fault Count" />
+      <item value="fault Count" />
+      <item value="fault Number" />
       <item value="The rectangle is the set of points with representable coordinates greater than or equal to lefttop, and with distance to lefttop no greater than widthheight (to the limit of the precision of the coordinates)." />
       <item value="This rectangle uses a left-handed Cartesian coordinate system, with x directed to the right and y directed down, as per the convention in 2D computer graphics." />
       <item value="The vertical direction is reversed, and the triangle must be horizontal at the base" />
@@ -118,15 +121,12 @@
       <item value="is Permanently Denied" />
       <item value="tier Num" />
       <item value="Result" />
-      <item value="seed Value" />
-      <item value="移出常用" />
-      <item value="is In Material App Scope" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
