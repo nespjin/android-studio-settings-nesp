@@ -71,6 +71,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="tuple" />
       <item value="Truple" />
       <item value="security protection screen" />
       <item value="page Num" />
@@ -120,13 +121,12 @@
       <item value="truncate After Composition Ends" />
       <item value="shrink Wrap" />
       <item value="obscure Text" />
-      <item value="is Restricted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="4" />
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
