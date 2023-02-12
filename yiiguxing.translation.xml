@@ -64,14 +64,71 @@
     <option name="lastTrimTime" value="1654599210257" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671441054965" />
+    <option name="lastTrimTime" value="1674888306272" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="restorable Push" />
+      <item value="Sass Dialog" />
+      <item value="tuple" />
+      <item value="Truple" />
+      <item value="security protection screen" />
+      <item value="page Num" />
+      <item value="proccessed Fault Count" />
+      <item value="fault Count" />
+      <item value="fault Number" />
+      <item value="The rectangle is the set of points with representable coordinates greater than or equal to lefttop, and with distance to lefttop no greater than widthheight (to the limit of the precision of the coordinates)." />
+      <item value="This rectangle uses a left-handed Cartesian coordinate system, with x directed to the right and y directed down, as per the convention in 2D computer graphics." />
+      <item value="The vertical direction is reversed, and the triangle must be horizontal at the base" />
+      <item value="垂直方向反转，三角形必须底边水平" />
+      <item value="Equilateral triangle which bottom edge is horizontal, and the vertices are on top" />
+      <item value="底边水平, 顶点在上的" />
+      <item value="is Lack Master Breaker" />
+      <item value="flip Vertical" />
+      <item value="is Uniform" />
+      <item value="row Number" />
+      <item value="sideway" />
+      <item value="sideways Length" />
+      <item value="侧边" />
+      <item value="slide Side Length" />
+      <item value="Isosceles" />
+      <item value="等腰" />
+      <item value="side Length" />
+      <item value="isosceles" />
+      <item value="等腰三角形" />
+      <item value="The number of clockwise quarter turns the child should be rotated." />
+      <item value="intersects" />
+      <item value="Converts a stream to future" />
+      <item value="Listen event once, will auto-remove listener after event is received." />
+      <item value="排数" />
+      <item value="Post-frame callbacks cannot be unregistered. They are called exactly once" />
+      <item value="shrink" />
+      <item value="create Unique Id" />
+      <item value="The scan result was determined, stop scan task." />
+      <item value="The scan result has value, stop scan task." />
+      <item value="决定" />
+      <item value="The scan result is confirmed, stop scan task" />
+      <item value="code Units" />
+      <item value="units" />
+      <item value="is Not All Required Permissions Granted" />
+      <item value="drain" />
+      <item value="当不存在总控时不能切换到控制Tab和统计Tab只弹框提示" />
+      <item value="不存在网关时，不显示底部导航" />
+      <item value="is Grand All Permissions" />
+      <item value="is Grand Permission" />
+      <item value="runes" />
+      <item value="truncate After Composition Ends" />
+      <item value="shrink Wrap" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="AFRIKAANS" value="4" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="1" />
+      </map>
+    </option>
   </component>
 </application>

@@ -13,6 +13,8 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Memory" value="true" />
+        <entry key="PowerSaveMode" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
       </map>
