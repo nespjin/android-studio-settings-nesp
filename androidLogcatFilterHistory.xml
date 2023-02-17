@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RKUpdateService" />
+    <option name="mostRecentlyUsed" value="com.chintapp" />
     <option name="nonFavorites">
       <list>
+        <option value="com.chintapp" />
+        <option value="chintapp" />
         <option value="RKUpdateService" />
         <option value="Update" />
         <option value="android_serial_port" />
@@ -21,8 +23,6 @@
         <option value="ok" />
         <option value="topic" />
         <option value="App" />
-        <option value="package:mine App" />
-        <option value="GatewayDetailFragment" />
       </list>
     </option>
   </component>
