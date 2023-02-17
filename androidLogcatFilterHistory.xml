@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="getVersionInfo" />
         <option value="com.chintapp" />
         <option value="chintapp" />
         <option value="RKUpdateService" />
@@ -22,7 +23,6 @@
         <option value="Drive" />
         <option value="ok" />
         <option value="topic" />
-        <option value="App" />
       </list>
     </option>
   </component>
