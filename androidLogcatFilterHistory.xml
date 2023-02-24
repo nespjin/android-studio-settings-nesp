@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="topic:device_error_report/sync/1723" />
+    <option name="mostRecentlyUsed" value="I  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="I  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
+        <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;5" />
         <option value="topic:device_error_report/sync/1723" />
         <option value="flutter" />
         <option value="com.chintapp" />
@@ -21,8 +23,6 @@
         <option value="serial" />
         <option value="audit" />
         <option value="package:mine" />
-        <option value="onCrea" />
-        <option value="SerialDriver" />
       </list>
     </option>
   </component>
