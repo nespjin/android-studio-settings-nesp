@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.chintapp" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
-        <option value="com.chintapp" />
         <option value="flutter" />
+        <option value="com.chintapp" />
         <option value="Mqtt" />
         <option value="getVersionInfo" />
         <option value="chintapp" />
