@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="topic:device_error_report/sync/1723" />
     <option name="nonFavorites">
       <list>
+        <option value="topic:device_error_report/sync/1723" />
         <option value="flutter" />
         <option value="com.chintapp" />
         <option value="Mqtt" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="onCrea" />
         <option value="SerialDriver" />
-        <option value="Drive" />
       </list>
     </option>
   </component>
