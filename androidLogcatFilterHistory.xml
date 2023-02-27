@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="mqtt" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/deviceAlarm/getAlarmMsg" />
         <option value="getAla" />
         <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="onCreate" />
         <option value="android" />
-        <option value="seria" />
       </list>
     </option>
   </component>
