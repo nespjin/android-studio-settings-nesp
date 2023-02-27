@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="263e4f08" />
+          </Key>
+        </key>
+        <name value="OPPO PFFM10" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="97617cb693cb9f68" />
           </Key>
         </key>
@@ -54,17 +65,6 @@
         <name value="rockchip rk3566_r" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="263e4f08" />
-          </Key>
-        </key>
-        <name value="OPPO PFFM10" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
