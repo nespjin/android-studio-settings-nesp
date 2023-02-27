@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
+        <option value="level:DEBUG" />
         <option value="package:mine " />
         <option value="mqtt" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/deviceAlarm/getAlarmMsg" />
@@ -12,7 +15,6 @@
         <option value="I  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
         <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;5" />
         <option value="topic:device_error_report/sync/1723" />
-        <option value="flutter" />
         <option value="com.chintapp" />
         <option value="Mqtt" />
         <option value="getVersionInfo" />
@@ -21,7 +23,6 @@
         <option value="Update" />
         <option value="android_serial_port" />
         <option value="onCreate" />
-        <option value="android" />
       </list>
     </option>
   </component>
