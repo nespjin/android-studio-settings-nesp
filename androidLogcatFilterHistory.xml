@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:DEBUG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="mqtt" />
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/deviceAlarm/getAlarmMsg" />
         <option value="getAla" />
@@ -20,7 +20,6 @@
         <option value="RKUpdateService" />
         <option value="Update" />
         <option value="android_serial_port" />
-        <option value="package:mine " />
         <option value="onCreate" />
         <option value="android" />
       </list>
