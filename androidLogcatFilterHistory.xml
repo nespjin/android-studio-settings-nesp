@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="HomePartialLoginFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="HomePartialLoginFragment" />
         <option value="package:mine MqttClientImpl:messageArrived" />
         <option value="package:mine " />
         <option value="home_screen" />
@@ -22,7 +23,6 @@
         <option value="Mqtt" />
         <option value="getVersionInfo" />
         <option value="chintapp" />
-        <option value="RKUpdateService" />
       </list>
     </option>
   </component>
