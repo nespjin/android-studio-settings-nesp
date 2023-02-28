@@ -82,6 +82,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="当前设备未打开定位，是否去打开定位" />
       <item value="acknowledged" />
       <item value="expect Acknowledge" />
       <item value="physical" />
@@ -119,7 +120,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
+        <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="30" />
         <entry key="FRENCH" value="1" />
       </map>
