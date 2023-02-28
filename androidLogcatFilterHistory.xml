@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="config_gateway_network_screen" />
+    <option name="mostRecentlyUsed" value="home_screen" />
     <option name="nonFavorites">
       <list>
+        <option value="home_screen" />
         <option value="config_gateway_network_screen" />
         <option value="flutter" />
         <option value="level:DEBUG" />
@@ -22,7 +23,6 @@
         <option value="chintapp" />
         <option value="RKUpdateService" />
         <option value="Update" />
-        <option value="android_serial_port" />
       </list>
     </option>
   </component>
