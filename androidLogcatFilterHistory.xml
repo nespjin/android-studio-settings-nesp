@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="MainActivityViewModel" />
+        <option value="ping" />
         <option value="HomePartialLoginFragment" />
         <option value="flutter" />
         <option value="package:mine MqttClientImpl:messageArrived" />
@@ -22,7 +23,6 @@
         <option value="topic:device_error_report/sync/1723" />
         <option value="com.chintapp" />
         <option value="Mqtt" />
-        <option value="getVersionInfo" />
       </list>
     </option>
   </component>
