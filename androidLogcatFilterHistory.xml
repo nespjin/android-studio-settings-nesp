@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppExecutors" />
+    <option name="mostRecentlyUsed" value="MainActivity@" />
     <option name="nonFavorites">
       <list>
+        <option value="MainActivity@" />
+        <option value="MainActivity" />
+        <option value="MainAc" />
+        <option value="onAp" />
         <option value="block" />
         <option value="HomeHost" />
         <option value="AppExecutors" />
@@ -19,10 +23,6 @@
         <option value="HomeFragment" />
         <option value="Statistics" />
         <option value="StatisticsPowerViewModel" />
-        <option value="level:error " />
-        <option value="Home" />
-        <option value="token" />
-        <option value=" &lt;-- 200" />
       </list>
     </option>
   </component>
