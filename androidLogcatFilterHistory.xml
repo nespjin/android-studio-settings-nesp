@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Home" />
+    <option name="mostRecentlyUsed" value="AppExecutors" />
     <option name="nonFavorites">
       <list>
+        <option value="AppExecutors" />
         <option value="Home" />
         <option value="token" />
         <option value="HomeFragment" />
@@ -18,7 +19,6 @@
         <option value="AppMqtt" />
         <option value="AppMqt" />
         <option value="AppMqttService" />
-        <option value="AppExecutors" />
         <option value="HTTPRejectedHandler" />
         <option value="onApp" />
         <option value="Method" />
