@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Statistics" />
+    <option name="mostRecentlyUsed" value="NetworkModule" />
     <option name="nonFavorites">
       <list>
+        <option value="NetworkModule" />
+        <option value="200" />
+        <option value="AppBaseFragment" />
+        <option value="HomeFragment" />
         <option value="Statistics" />
         <option value="StatisticsPowerViewModel" />
         <option value="level:error " />
         <option value="AppExecutors" />
         <option value="Home" />
         <option value="token" />
-        <option value="HomeFragment" />
         <option value=" &lt;-- 200" />
         <option value="Http" />
         <option value="isGatewayOnline" />
         <option value="Gate" />
-        <option value="NetworkModule" />
         <option value="Netw" />
         <option value="Metwo" />
         <option value="onBlock" />
         <option value="AppMqtt" />
         <option value="AppMqt" />
         <option value="AppMqttService" />
-        <option value="HTTPRejectedHandler" />
-        <option value="onApp" />
       </list>
     </option>
   </component>
