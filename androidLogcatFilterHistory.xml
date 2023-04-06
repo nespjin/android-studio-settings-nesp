@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="NetworkModule" />
+    <option name="mostRecentlyUsed" value=" &lt;-- 200" />
     <option name="nonFavorites">
       <list>
+        <option value=" &lt;-- 200" />
+        <option value="Http" />
+        <option value="isGatewayOnline" />
+        <option value="Gate" />
         <option value="NetworkModule" />
         <option value="Netw" />
         <option value="Metwo" />
@@ -19,10 +23,6 @@
         <option value="ping" />
         <option value="HomePartialLoginFragment" />
         <option value="flutter" />
-        <option value="package:mine MqttClientImpl:messageArrived" />
-        <option value="package:mine " />
-        <option value="home_screen" />
-        <option value="config_gateway_network_screen" />
       </list>
     </option>
   </component>
