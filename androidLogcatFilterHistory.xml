@@ -3,12 +3,15 @@
     <option name="mostRecentlyUsed" value="AppExecutors" />
     <option name="nonFavorites">
       <list>
+        <option value="block" />
+        <option value="HomeHost" />
+        <option value="AppExecutors" />
+        <option value="HomeHostFragment" />
         <option value="preloadInstance" />
         <option value="NetworkModule" />
         <option value="provideOkHttpClient" />
         <option value="Netw" />
         <option value="Net" />
-        <option value="AppExecutors" />
         <option value="onA" />
         <option value="App" />
         <option value="200" />
@@ -20,9 +23,6 @@
         <option value="Home" />
         <option value="token" />
         <option value=" &lt;-- 200" />
-        <option value="Http" />
-        <option value="isGatewayOnline" />
-        <option value="Gate" />
       </list>
     </option>
   </component>
