@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AppMqtt" />
     <option name="nonFavorites">
       <list>
+        <option value="AppMqtt" />
+        <option value="AppMqt" />
+        <option value="AppMqttService" />
         <option value="AppExecutors" />
         <option value="HTTPRejectedHandler" />
         <option value="onApp" />
@@ -20,9 +23,6 @@
         <option value="http://wpanel-iot-test.chint-lv.com:8001/app/deviceAlarm/getAlarmMsg" />
         <option value="getAla" />
         <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
-        <option value=":http://wpanel-iot-test.chint-lv.com:8001/app/deviceAlarm/getAlarmMsg" />
-        <option value="device_error_report" />
-        <option value="I  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
       </list>
     </option>
   </component>
