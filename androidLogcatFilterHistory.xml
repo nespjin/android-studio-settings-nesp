@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Method" />
+    <option name="mostRecentlyUsed" value="AppExecutors" />
     <option name="nonFavorites">
       <list>
+        <option value="AppExecutors" />
         <option value="Method" />
         <option value="MainActivityViewModel" />
         <option value="ping" />
@@ -22,7 +23,6 @@
         <option value="I  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
         <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;5" />
         <option value="topic:device_error_report/sync/1723" />
-        <option value="com.chintapp" />
       </list>
     </option>
   </component>
