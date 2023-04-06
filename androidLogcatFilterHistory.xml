@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppExecutors" />
+    <option name="mostRecentlyUsed" value="MethodTakeTimeMeasurer" />
     <option name="nonFavorites">
       <list>
+        <option value="MethodTakeTimeMeasurer" />
+        <option value="infla" />
+        <option value="HomePartialLogin" />
         <option value="AppExecutors" />
         <option value="heartbeat" />
         <option value="hea" />
@@ -20,9 +23,6 @@
         <option value="NetworkModule" />
         <option value="provideOkHttpClient" />
         <option value="Netw" />
-        <option value="Net" />
-        <option value="onA" />
-        <option value="App" />
       </list>
     </option>
   </component>
