@@ -1,15 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MainActivity@" />
+    <option name="mostRecentlyUsed" value="AppExecutors" />
     <option name="nonFavorites">
       <list>
+        <option value="AppExecutors" />
+        <option value="heartbeat" />
+        <option value="hea" />
+        <option value="block" />
+        <option value="pingPassed" />
+        <option value="ping" />
+        <option value="Palladium" />
         <option value="MainActivity@" />
         <option value="MainActivity" />
         <option value="MainAc" />
         <option value="onAp" />
-        <option value="block" />
         <option value="HomeHost" />
-        <option value="AppExecutors" />
         <option value="HomeHostFragment" />
         <option value="preloadInstance" />
         <option value="NetworkModule" />
@@ -18,11 +23,6 @@
         <option value="Net" />
         <option value="onA" />
         <option value="App" />
-        <option value="200" />
-        <option value="AppBaseFragment" />
-        <option value="HomeFragment" />
-        <option value="Statistics" />
-        <option value="StatisticsPowerViewModel" />
       </list>
     </option>
   </component>
