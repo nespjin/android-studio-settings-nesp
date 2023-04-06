@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MainActivityViewModel" />
+    <option name="mostRecentlyUsed" value="Method" />
     <option name="nonFavorites">
       <list>
+        <option value="Method" />
         <option value="MainActivityViewModel" />
         <option value="ping" />
         <option value="HomePartialLoginFragment" />
@@ -22,7 +23,6 @@
         <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;5" />
         <option value="topic:device_error_report/sync/1723" />
         <option value="com.chintapp" />
-        <option value="Mqtt" />
       </list>
     </option>
   </component>
