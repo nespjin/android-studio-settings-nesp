@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="AppExecutors" />
+        <option value="HTTPRejectedHandler" />
+        <option value="onApp" />
         <option value="Method" />
         <option value="MainActivityViewModel" />
         <option value="ping" />
@@ -21,8 +23,6 @@
         <option value=":http://wpanel-iot-test.chint-lv.com:8001/app/deviceAlarm/getAlarmMsg" />
         <option value="device_error_report" />
         <option value="I  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
-        <option value="&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;5" />
-        <option value="topic:device_error_report/sync/1723" />
       </list>
     </option>
   </component>
