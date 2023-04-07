@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomeFragment" />
+    <option name="mostRecentlyUsed" value="HomePartialWeatherChintDesign2VC" />
     <option name="nonFavorites">
       <list>
+        <option value="HomePartialWeatherChintDesign2VC" />
         <option value="HomeFragment" />
         <option value="MethodTakeTimeMeasurer" />
         <option value="OkHttpClient" />
@@ -22,7 +23,6 @@
         <option value="MainActivity" />
         <option value="MainAc" />
         <option value="onAp" />
-        <option value="HomeHost" />
       </list>
     </option>
   </component>
