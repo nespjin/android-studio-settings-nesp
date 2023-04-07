@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="block" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="block" />
         <option value="AppExecutors" />
         <option value="AppEx" />
         <option value="SettingsFragment" />
         <option value="BreakerListFragment" />
         <option value="AppHostActivity" />
-        <option value="level:error " />
         <option value="HomePartialWeatherChintDesign2VC" />
         <option value="HomeFragment" />
         <option value="MethodTakeTimeMeasurer" />
