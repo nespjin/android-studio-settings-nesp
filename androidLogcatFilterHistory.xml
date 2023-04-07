@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="AppExecutors" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
-        <option value="block" />
         <option value="AppExecutors" />
         <option value="AppEx" />
+        <option value="level:error " />
+        <option value="block" />
         <option value="SettingsFragment" />
         <option value="BreakerListFragment" />
         <option value="AppHostActivity" />
