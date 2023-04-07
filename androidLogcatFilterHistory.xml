@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="block" />
+    <option name="mostRecentlyUsed" value="BreakerListFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="BreakerListFragment" />
         <option value="block" />
+        <option value="AppHostActivity" />
         <option value="level:error " />
         <option value="HomePartialWeatherChintDesign2VC" />
         <option value="HomeFragment" />
@@ -21,8 +23,6 @@
         <option value="ping" />
         <option value="Palladium" />
         <option value="MainActivity@" />
-        <option value="MainActivity" />
-        <option value="MainAc" />
       </list>
     </option>
   </component>
