@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomePartialWeatherChintDesign2VC" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="block" />
         <option value="HomePartialWeatherChintDesign2VC" />
         <option value="HomeFragment" />
         <option value="MethodTakeTimeMeasurer" />
@@ -15,14 +17,12 @@
         <option value="HomePartialLogin" />
         <option value="heartbeat" />
         <option value="hea" />
-        <option value="block" />
         <option value="pingPassed" />
         <option value="ping" />
         <option value="Palladium" />
         <option value="MainActivity@" />
         <option value="MainActivity" />
         <option value="MainAc" />
-        <option value="onAp" />
       </list>
     </option>
   </component>
