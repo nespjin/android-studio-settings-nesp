@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine Method" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Method" />
+        <option value="package:com.chintapp Method" />
+        <option value="package:" />
         <option value="AppExecutors" />
         <option value="AppEx" />
         <option value="level:error " />
@@ -20,9 +23,6 @@
         <option value="infla" />
         <option value="HomePartialLogin" />
         <option value="heartbeat" />
-        <option value="hea" />
-        <option value="pingPassed" />
-        <option value="ping" />
       </list>
     </option>
   </component>
