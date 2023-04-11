@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onRes" />
+    <option name="mostRecentlyUsed" value="package:mine HomePartialLogin" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine onRes" />
         <option value="package:mine HomePartialLogin" />
+        <option value="package:mine AppBaseFra" />
+        <option value="package:mine onRes" />
         <option value="package:mine " />
         <option value="package:mine mqtt" />
         <option value="package:mine Method" />
@@ -22,7 +23,6 @@
         <option value="MethodTakeTimeMeasurer" />
         <option value="OkHttpClient" />
         <option value="200" />
-        <option value="ok" />
       </list>
     </option>
   </component>
