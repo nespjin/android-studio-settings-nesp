@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine onRes" />
         <option value="package:mine mqtt" />
         <option value="package:mine Method" />
         <option value="package:com.chintapp Method" />
@@ -21,7 +22,6 @@
         <option value="200" />
         <option value="ok" />
         <option value="Statistics" />
-        <option value="infla" />
       </list>
     </option>
   </component>
