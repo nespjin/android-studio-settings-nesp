@@ -12,8 +12,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="权限介绍" type="PLAIN_TEXT" />
       <mapping pattern="extracas" type="PLAIN_TEXT" />
-      <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".lck" type="PLAIN_TEXT" />
       <mapping ext="prof" type="PLAIN_TEXT" />
       <mapping ext="dsadasdsadadsadas" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
