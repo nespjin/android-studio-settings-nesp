@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter DeviceModelView" />
+    <option name="mostRecentlyUsed" value="flutter down" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter down" />
+        <option value="flutter " />
         <option value="flutter DeviceModelView" />
         <option value="flutter" />
         <option value="package:mine HomePartialLogin" />
@@ -21,8 +23,6 @@
         <option value="BreakerListFragment" />
         <option value="AppHostActivity" />
         <option value="HomePartialWeatherChintDesign2VC" />
-        <option value="HomeFragment" />
-        <option value="MethodTakeTimeMeasurer" />
       </list>
     </option>
   </component>
