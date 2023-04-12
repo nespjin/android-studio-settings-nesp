@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter down" />
+    <option name="mostRecentlyUsed" value="flutter ModelViewer" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter ModelViewer" />
         <option value="flutter down" />
         <option value="flutter " />
         <option value="flutter DeviceModelView" />
@@ -22,7 +23,6 @@
         <option value="SettingsFragment" />
         <option value="BreakerListFragment" />
         <option value="AppHostActivity" />
-        <option value="HomePartialWeatherChintDesign2VC" />
       </list>
     </option>
   </component>
