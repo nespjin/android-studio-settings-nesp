@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter ModelViewer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="flutter ModelViewer" />
         <option value="flutter down" />
         <option value="flutter " />
@@ -11,7 +11,6 @@
         <option value="package:mine HomePartialLogin" />
         <option value="package:mine AppBaseFra" />
         <option value="package:mine onRes" />
-        <option value="package:mine " />
         <option value="package:mine mqtt" />
         <option value="package:mine Method" />
         <option value="package:com.chintapp Method" />
