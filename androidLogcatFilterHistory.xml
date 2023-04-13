@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onResume" />
+    <option name="mostRecentlyUsed" value="package:mine HomeFragmentChintDesign2VC" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HomeFragmentChintDesign2VC" />
+        <option value="package:mine HomeFragmentChintDesign" />
         <option value="package:mine onResume" />
         <option value="package:mine onRes" />
         <option value="package:mine heartbeat" />
@@ -21,8 +23,6 @@
         <option value="flutter " />
         <option value="flutter DeviceModelView" />
         <option value="flutter" />
-        <option value="package:mine HomePartialLogin" />
-        <option value="package:mine AppBaseFra" />
       </list>
     </option>
   </component>
