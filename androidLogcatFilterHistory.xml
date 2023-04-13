@@ -1,7 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine PalladiumService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PalladiumService" />
+        <option value="package:mine heart" />
+        <option value="package:mine onA" />
+        <option value="package:mine performConnectWifi" />
+        <option value="package:mine NetworkSettingsFragment" />
+        <option value="package:mine n" />
         <option value="package:mine " />
         <option value="flutter ModelViewer" />
         <option value="flutter down" />
@@ -16,12 +23,6 @@
         <option value="package:com.chintapp Method" />
         <option value="package:" />
         <option value="AppExecutors" />
-        <option value="AppEx" />
-        <option value="level:error " />
-        <option value="block" />
-        <option value="SettingsFragment" />
-        <option value="BreakerListFragment" />
-        <option value="AppHostActivity" />
       </list>
     </option>
   </component>
