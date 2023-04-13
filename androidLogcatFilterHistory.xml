@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine AppBaseFragment" />
+    <option name="mostRecentlyUsed" value="package:mine onResume" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onResume" />
         <option value="package:mine AppBaseFragment" />
         <option value="package:mine on" />
         <option value="package:mine HomeFragmentChintDesign2VC" />
         <option value="package:mine HomeFragmentChintDesign" />
-        <option value="package:mine onResume" />
         <option value="package:mine onRes" />
         <option value="package:mine heartbeat" />
         <option value="package:mine onA" />
