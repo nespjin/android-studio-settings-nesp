@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine HomePartialAlarmChintDesign0VC" />
+    <option name="mostRecentlyUsed" value="package:mine AppEx" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine AppEx" />
+        <option value="package:mine " />
+        <option value="package:mine AppExecutors" />
+        <option value="package:mine APpEx" />
         <option value="package:mine HomePartialAlarmChintDesign0VC" />
         <option value="package:mine observeStatusApi21" />
-        <option value="package:mine " />
         <option value="package:mine Ok" />
         <option value="package:mine onResume" />
         <option value="package:mine AppBaseFragment" />
@@ -15,14 +18,11 @@
         <option value="package:mine onRes" />
         <option value="package:mine heartbeat" />
         <option value="package:mine onA" />
-        <option value="package:mine AppEx" />
         <option value="package:mine Home" />
         <option value="package:mine PalladiumService" />
         <option value="package:mine heart" />
         <option value="package:mine performConnectWifi" />
         <option value="package:mine NetworkSettingsFragment" />
-        <option value="package:mine n" />
-        <option value="flutter ModelViewer" />
       </list>
     </option>
   </component>
