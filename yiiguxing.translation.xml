@@ -75,13 +75,14 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677213725972" />
+    <option name="lastTrimTime" value="1681364001548" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Deferred" />
       <item value="当前设备未打开定位，是否去打开定位" />
       <item value="acknowledged" />
       <item value="expect Acknowledge" />
@@ -121,7 +122,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
