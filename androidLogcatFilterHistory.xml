@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  AppExecutors" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  AppExecutors" />
+        <option value="package:mine  AppEx" />
         <option value="package:mine  " />
         <option value="package:mine  tag:AppExecutors" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine on" />
         <option value="package:mine HomeFragmentChintDesign2VC" />
         <option value="package:mine HomeFragmentChintDesign" />
-        <option value="package:mine onRes" />
-        <option value="package:mine heartbeat" />
       </list>
     </option>
   </component>
