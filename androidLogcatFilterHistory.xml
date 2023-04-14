@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  ValidateCodeLoginPartial" />
+    <option name="mostRecentlyUsed" value="package:mine  Http" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  Http" />
+        <option value="package:mine  MainA" />
         <option value="package:mine  ValidateCodeLoginPartial" />
         <option value="package:mine  collectLatest" />
         <option value="package:mine  ValidateCodeLoginPartialFragment" />
@@ -12,7 +14,6 @@
         <option value="package:mine  AppBase" />
         <option value="package:mine  initializeUserMessageObserver" />
         <option value="package:mine  " />
-        <option value="package:mine  Http" />
         <option value="package:mine  ok" />
         <option value="package:mine  AppExecutors" />
         <option value="package:mine  tag:AppExecutors" />
@@ -22,7 +23,6 @@
         <option value="package:mine MainActivity" />
         <option value="package:mine MainA" />
         <option value="package:mine AppEx" />
-        <option value="package:mine AppExecutors" />
       </list>
     </option>
   </component>
