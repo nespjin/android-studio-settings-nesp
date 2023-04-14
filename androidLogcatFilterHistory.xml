@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  Http" />
+    <option name="mostRecentlyUsed" value="package:mine  MQtt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  MQtt" />
         <option value="package:mine  Http" />
         <option value="package:mine  MainA" />
         <option value="package:mine  ValidateCodeLoginPartial" />
@@ -22,7 +23,6 @@
         <option value="flutter ModelViewer" />
         <option value="package:mine MainActivity" />
         <option value="package:mine MainA" />
-        <option value="package:mine AppEx" />
       </list>
     </option>
   </component>
