@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="flutter DeviceModelView" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter DeviceModelView" />
+        <option value="flutter Model" />
         <option value="flutter " />
         <option value="package:mine  Mqtt" />
         <option value="package:mine  MQtt" />
@@ -21,8 +23,6 @@
         <option value="package:mine  AppExecutors" />
         <option value="package:mine  tag:AppExecutors" />
         <option value="package:mine " />
-        <option value="package:mine App" />
-        <option value="flutter ModelViewer" />
       </list>
     </option>
   </component>
