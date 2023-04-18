@@ -85,15 +85,16 @@
     <data-views />
     <general />
     <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
+          <nt-symbol-settings />
+          <option name="VALUES_FILTER_ENABLED" value="false" />
+        </configuration>
+      </debugger>
       <debugger id="groovy_debugger">
         <configuration>
           <option name="ENABLE_GROOVY_HOTSWAP" value="false" />
-        </configuration>
-      </debugger>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
-          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
         </configuration>
       </debugger>
     </debuggers>
