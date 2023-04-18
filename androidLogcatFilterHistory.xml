@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter " />
+    <option name="mostRecentlyUsed" value="RKUpdateService" />
     <option name="nonFavorites">
       <list>
-        <option value="flutter " />
-        <option value="flutter DeviceModelView" />
-        <option value="flutter Model" />
-        <option value="package:mine  Mqtt" />
-        <option value="package:mine  MQtt" />
-        <option value="package:mine  Http" />
-        <option value="package:mine  MainA" />
-        <option value="package:mine  ValidateCodeLoginPartial" />
-        <option value="package:mine  collectLatest" />
-        <option value="package:mine  ValidateCodeLoginPartialFragment" />
-        <option value="package:mine  AppEx" />
-        <option value="package:mine  AppBaseFragment" />
-        <option value="package:mine  AppBaseFra" />
-        <option value="package:mine  AppBase" />
-        <option value="package:mine  initializeUserMessageObserver" />
-        <option value="package:mine  " />
-        <option value="package:mine  ok" />
-        <option value="package:mine  AppExecutors" />
-        <option value="package:mine  tag:AppExecutors" />
+        <option value="RKUpdateService" />
+        <option value="Update" />
+        <option value="android_serial_port" />
         <option value="package:mine " />
+        <option value="onCreate" />
+        <option value="android" />
+        <option value="seria" />
+        <option value="Driver" />
+        <option value="Seri" />
+        <option value="serial" />
+        <option value="audit" />
+        <option value="package:mine" />
+        <option value="onCrea" />
+        <option value="SerialDriver" />
+        <option value="Drive" />
+        <option value="ok" />
+        <option value="topic" />
+        <option value="App" />
+        <option value="package:mine App" />
+        <option value="GatewayDetailFragment" />
       </list>
     </option>
   </component>
