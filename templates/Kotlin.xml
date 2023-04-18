@@ -34,10 +34,4 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="notes" value="/** $NOTES$ */" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="NOTES" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
 </templateSet>

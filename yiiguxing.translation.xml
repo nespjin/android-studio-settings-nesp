@@ -1,124 +1,133 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="257" />
-    <option name="newTranslationDialogWidth" value="564" />
-    <option name="newTranslationDialogX" value="609" />
-    <option name="newTranslationDialogY" value="339" />
     <histories>
-      <item value="are Equivalent" />
-      <item value="pixels" />
-      <item value="Illegal State Exception" />
-      <item value="平分" />
-      <item value="start Scan Lighting Single Direction Animation" />
-      <item value="timely" />
-      <item value="层数" />
-      <item value="implemented" />
-      <item value="The name of this log file that be wrote" />
-      <item value="setup Theme" />
-      <item value="ding.groupTerminalBoxEmpty.visible() bind" />
-      <item value="qualifiers" />
-      <item value="migrate Old Token" />
-      <item value="update Silence" />
-      <item value="Auth Algorithm" />
-      <item value="ping Outstanding" />
-      <item value="set Max Inflight" />
-      <item value="home no connect network banner piece_1" />
-      <item value="summary" />
-      <item value="Mqtt Callback Extended" />
-      <item value="ARGUMENT KEY LOCATE VALUE" />
-      <item value="INVALID VERSION CODE" />
-      <item value="归档" />
-      <item value="打包" />
-      <item value="Updater" />
-      <item value="STATE IDLE" />
-      <item value="Update Bundle" />
-      <item value="Alarm" />
-      <item value="自动组网" />
-      <item value="update Silenc" />
-      <item value="静默" />
-      <item value="update House Id Cache If Necessary" />
-      <item value="get Breakers With Level Stream 2" />
-      <item value="iv role smail" />
-      <item value="get Energy Proportion" />
-      <item value="后缀" />
-      <item value="Subfix" />
-      <item value="tv tab power curve" />
-      <item value="昨天" />
-      <item value="电量" />
-      <item value="Electric Energy" />
-      <item value="Energy" />
-      <item value="功率" />
-      <item value="with Context" />
-      <item value="能耗" />
-      <item value="electrict&#10;" />
-      <item value="electrict" />
-      <item value="electricti" />
-      <item value="electrictio" />
-      <item value="electriction" />
+      <item value="initialize View" />
+      <item value="虚拟体验" />
+      <item value="Behavior Collect Manager" />
+      <item value="rect" />
+      <item value="TYPE MATERNAL AND INFANT" />
+      <item value="ll Full Gallbladder Heat Select" />
+      <item value="SH Bidirectional Seekbar" />
+      <item value=":app:compile Release Renderscript" />
+      <item value="&gt; Task :app:compileReleaseAidl NO-SOURCE &gt; Task :zxing-lib:packageReleaseRenderscript NO-SOURCE &gt; Task :app:checkReleaseManifest UP-TO-DATE &gt; Task :app:compileReleaseRenderscript NO-SOURCE &gt; Task :app:generateReleaseBuildConfig UP-TO-DATE &gt; Task :zxing-lib:checkReleaseManifest UP-TO-DATE &gt; Task :zxing-lib:compileReleaseRenderscript NO-SOURCE &gt; Task :zxing-lib:generateReleaseBuildConfig UP-TO-DATE &gt; Task :zxing-lib:generateReleaseResValues UP-TO-DATE &gt; Task :zxing-lib:generateReleaseResources UP-TO-DATE &gt; Task :zxing-lib:packageReleaseResources UP-TO-DATE &gt; Task :zxing-lib:parseReleaseLibraryResources UP-TO-DATE &gt; Task :zxing-lib:processReleaseManifest UP-TO-DATE &gt; Task :zxing-lib:generateReleaseRFile UP-TO-DATE &gt; Task :zxing-lib:javaPreCompileRelease UP-TO-DATE &gt; Task :zxing-lib:compileReleaseJavaWithJavac UP-TO-DATE &gt; Task :zxing-lib:bundleLibCompileRelease UP-TO-DATE &gt; Task :app:javaPreCompileRelease UP-TO-DATE &gt; Task :app:mainApkListPersistenceRelease UP-TO-DATE &gt; Task :app:generateReleaseResValues UP-TO-DATE &gt; Task :app:generateReleaseResources UP-TO-DATE &gt; Task :app:mergeReleaseResources UP-TO-DATE &gt; Task :app:createReleaseCompatibleScreenManifests UP-TO-DATE &gt; Task :app:processReleaseManifest UP-TO-DATE &gt; Task :app:processReleaseResources UP-TO-DATE" />
+      <item value="Medical Activity" />
+      <item value="AUGUST" />
+      <item value="NOVEMBER" />
+      <item value="JUNE" />
+      <item value="热熔洗" />
+      <item value="AI联动" />
+      <item value="智能体感" />
+      <item value="heat Melt To Wash" />
+      <item value="sw_摆头" />
+      <item value="preform action &amp; resolve the conflicts" />
+      <item value="perform Operation Info" />
+      <item value="部分地" />
+      <item value="is Equals Partily" />
+      <item value="operate Snap Shot" />
+      <item value="ic lampblack hot melt to wash" />
+      <item value="on Timed Time Changed" />
+      <item value="烘干" />
+      <item value="ic washer mode select single baked on" />
+      <item value="ic washer mode select feather on" />
+      <item value="除菌洗" />
+      <item value="一键智洗" />
+      <item value="衬衣衫" />
+      <item value="快洗30" />
+      <item value="筒清洁" />
+      <item value="内衣洗" />
+      <item value="空气洗" />
+      <item value="暖衣烘" />
+      <item value="洗烘60" />
+      <item value="单烘干" />
+      <item value="节能洗" />
+      <item value="漂洗+脱水" />
+      <item value="单脱水" />
+      <item value="羊毛洗" />
+      <item value="运动衣" />
+      <item value="快洗42" />
+      <item value="极速15" />
+      <item value="标准洗" />
+      <item value="混合洗" />
+      <item value="大件洗" />
+      <item value="童衣洗" />
+      <item value="羽绒服" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="480" />
-        <entry key="ENGLISH" value="481" />
-        <entry key="CROATIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="8" />
-        <entry key="WELSH" value="1" />
-        <entry key="GREEK" value="2" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
+        <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664022392254" />
-  </component>
-  <component name="Settings">
-    <option name="targetLanguageSelection" value="LAST" />
+    <option name="lastTrimTime" value="1654599210257" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672395807387" />
+    <option name="lastTrimTime" value="1674888306272" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="分闸" />
-      <item value="合闸" />
-      <item value="Default View Mode方式扫码接口，检测扫码需要的相机权限和存储权限，若有权限则跳转到由Scan Kit定义的扫码界面，若没有权限直接返回。" />
-      <item value="相机初始化异常" />
-      <item value="没有文件目录读取权限" />
-      <item value="应用没有相机权限" />
-      <item value="成功" />
-      <item value="塑壳模拟开关" />
-      <item value="加密" />
-      <item value="Required" />
-      <item value="头校验" />
-      <item value="设置是否在主线程接收数据" />
-      <item value="消极的" />
-      <item value="Diagnostic" />
-      <item value="Metrics" />
-      <item value="get Display Metrics" />
-      <item value="过载模拟" />
-      <item value="动作时间" />
-      <item value="保护倍数" />
-      <item value="电流" />
-      <item value="整定电流" />
-      <item value="漏电诊断" />
-      <item value="过压诊断" />
-      <item value="diagnosis" />
-      <item value="过载诊断" />
-      <item value="维护" />
-      <item value="维" />
-      <item value="运维" />
-      <item value="descriptor" />
-      <item value="开始连接" />
-      <item value="on Le Scan" />
+      <item value="Sass Dialog" />
+      <item value="tuple" />
+      <item value="Truple" />
+      <item value="security protection screen" />
+      <item value="page Num" />
+      <item value="proccessed Fault Count" />
+      <item value="fault Count" />
+      <item value="fault Number" />
+      <item value="The rectangle is the set of points with representable coordinates greater than or equal to lefttop, and with distance to lefttop no greater than widthheight (to the limit of the precision of the coordinates)." />
+      <item value="This rectangle uses a left-handed Cartesian coordinate system, with x directed to the right and y directed down, as per the convention in 2D computer graphics." />
+      <item value="The vertical direction is reversed, and the triangle must be horizontal at the base" />
+      <item value="垂直方向反转，三角形必须底边水平" />
+      <item value="Equilateral triangle which bottom edge is horizontal, and the vertices are on top" />
+      <item value="底边水平, 顶点在上的" />
+      <item value="is Lack Master Breaker" />
+      <item value="flip Vertical" />
+      <item value="is Uniform" />
+      <item value="row Number" />
+      <item value="sideway" />
+      <item value="sideways Length" />
+      <item value="侧边" />
+      <item value="slide Side Length" />
+      <item value="Isosceles" />
+      <item value="等腰" />
+      <item value="side Length" />
+      <item value="isosceles" />
+      <item value="等腰三角形" />
+      <item value="The number of clockwise quarter turns the child should be rotated." />
+      <item value="intersects" />
+      <item value="Converts a stream to future" />
+      <item value="Listen event once, will auto-remove listener after event is received." />
+      <item value="排数" />
+      <item value="Post-frame callbacks cannot be unregistered. They are called exactly once" />
+      <item value="shrink" />
+      <item value="create Unique Id" />
+      <item value="The scan result was determined, stop scan task." />
+      <item value="The scan result has value, stop scan task." />
+      <item value="决定" />
+      <item value="The scan result is confirmed, stop scan task" />
+      <item value="code Units" />
+      <item value="units" />
+      <item value="is Not All Required Permissions Granted" />
+      <item value="drain" />
+      <item value="当不存在总控时不能切换到控制Tab和统计Tab只弹框提示" />
+      <item value="不存在网关时，不显示底部导航" />
+      <item value="is Grand All Permissions" />
+      <item value="is Grand Permission" />
+      <item value="runes" />
+      <item value="truncate After Composition Ends" />
+      <item value="shrink Wrap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
-        <entry key="FRENCH" value="1" />
+        <entry key="AFRIKAANS" value="4" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="1" />
       </map>
     </option>
   </component>

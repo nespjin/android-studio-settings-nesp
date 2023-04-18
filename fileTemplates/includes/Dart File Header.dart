@@ -1,7 +1,7 @@
 ///
-/// ${DESCRIPTION}
-/// 
-/// Author: JinZhaolu <a href="mailto:dyjinzl@chint.com">Contact me.</a>
-/// Version: ${VERSION_NAME}
+/// Team: NESP Technology
+/// Author: <a href="mailto:1756404649@qq.com">JinZhaolu Email:1756404649@qq.com</a>
 /// Time: Created ${DATE} ${TIME}
+/// Project: ${PROJECT_NAME}
+/// Description:
 ///

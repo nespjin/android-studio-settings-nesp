@@ -2,10 +2,4 @@
   <component name="ShowUsagesSettings">
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
-  <component name="UsageFilteringRuleState">
-    <option value="com.intellij.usages.impl.rules.ImportUsageFilteringRule" />
-  </component>
-  <component name="UsageViewSettings">
-    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.38251367" />
-  </component>
 </application>

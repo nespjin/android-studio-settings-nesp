@@ -73,11 +73,4 @@
     <variable name="class" expression="qualifiedClassName()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="intAnnotation" value=" @Target(&#10;        AnnotationTarget.FIELD,&#10;        AnnotationTarget.LOCAL_VARIABLE,&#10;        AnnotationTarget.VALUE_PARAMETER,&#10;        AnnotationTarget.TYPE_PARAMETER,&#10;        AnnotationTarget.FUNCTION,&#10;        AnnotationTarget.PROPERTY,&#10;        AnnotationTarget.PROPERTY_SETTER,&#10;        AnnotationTarget.PROPERTY_GETTER&#10;    )&#10;    @Retention(AnnotationRetention.SOURCE)&#10;    @IntDef()&#10;    annotation class $NAME$ {&#10;        companion object {&#10;          $CONTENT$&#10;        }&#10;    }" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="KOTLIN" value="true" />
-    </context>
-  </template>
 </templateSet>
